@@ -11,7 +11,7 @@ This document details the roles, technical workflows, machinery requirements, an
 ---
 
 <p align="center">
-  <img src="./المرحلة الأولى لشركة Eriez محطة المعالجة الاولية.png" alt="المرحلة الأولى لشركة Eriez محطة المعالجة الاولية" width="1200">
+  <img src="./assets/المرحلة الأولى لشركة Eriez محطة المعالجة الاولية.png" alt="المرحلة الأولى لشركة Eriez محطة المعالجة الاولية" width="1200">
 </p>
 
 
@@ -108,14 +108,14 @@ Marketing Services.*
 ---
 
 <p align="center">
-  <img src="./المرحلة الأولى لشركة Eriez محطة المعالجة الاولية.png" alt="المرحلة الأولى لشركة Eriez محطة المعالجة الاولية" width="1200">
+  <img src="./assets/المرحلة الأولى لشركة Eriez محطة المعالجة الاولية.png" alt="المرحلة الأولى لشركة Eriez محطة المعالجة الاولية" width="1200">
 </p>
 
 ---
 
 <p align="center">
-  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port  - View 1" width="49%">
-  <img src="./Shuqrah_Port2.png" alt="Shuqrah_Port2  - View 2" width="49%">
+  <img src="./assets/Shuqrah_Port.png" alt="Shuqrah_Port  - View 1" width="49%">
+  <img src="./assets/Shuqrah_Port2.png" alt="Shuqrah_Port2  - View 2" width="49%">
 </p>
 
 ---
@@ -142,16 +142,15 @@ Marketing Services.*
 ---
 
 <p align="center">
-  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port" width="1200">
+  <img src="./assets/المرحلة الأولى لشركة Eriez محطة المعالجة الاولية.png" alt="المرحلة الأولى لشركة Eriez محطة المعالجة الاولية" width="1200">
 </p>
 
 ---
 
 <p align="center">
-  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port  - View 1" width="49%">
-  <img src="./Shuqrah_Port2.png" alt="Shuqrah_Port2  - View 2" width="49%">
+  <img src="./assets/Shuqrah_Port.png" alt="Shuqrah_Port  - View 1" width="49%">
+  <img src="./assets/Shuqrah_Port2.png" alt="Shuqrah_Port2  - View 2" width="49%">
 </p>
-
 
 ---
 
@@ -177,18 +176,17 @@ Marketing Services.*
 ---
 
 <p align="center">
-  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port" width="1200">
+  <img src="./assets/المرحلة الأولى لشركة Eriez محطة المعالجة الاولية.png" alt="المرحلة الأولى لشركة Eriez محطة المعالجة الاولية" width="1200">
 </p>
 
 ---
 
 <p align="center">
-  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port  - View 1" width="49%">
-  <img src="./Shuqrah_Port2.png" alt="Shuqrah_Port2  - View 2" width="49%">
+  <img src="./assets/Shuqrah_Port.png" alt="Shuqrah_Port  - View 1" width="49%">
+  <img src="./assets/Shuqrah_Port2.png" alt="Shuqrah_Port2  - View 2" width="49%">
 </p>
 
 ---
-
 
 ### ⚙️ خطوات التشغيل ومخطط العمل:
 1. تسقط حبيبات الكوارتز المجففة عمودياً وبسرعة عالية عبر مجرى تغذية يعتمد على الجاذبية.
@@ -210,21 +208,21 @@ Marketing Services.*
 * **أماكن التطبيق:** منشأة التصنيع والإنتاج النهائي المتكاملة (مجمع العين السخنة العملاق).
 
 
+
 ---
 
 <p align="center">
-  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port" width="1200">
+  <img src="./assets/المرحلة الأولى لشركة Eriez محطة المعالجة الاولية.png" alt="المرحلة الأولى لشركة Eriez محطة المعالجة الاولية" width="1200">
 </p>
 
 ---
 
 <p align="center">
-  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port  - View 1" width="49%">
-  <img src="./Shuqrah_Port2.png" alt="Shuqrah_Port2  - View 2" width="49%">
+  <img src="./assets/Shuqrah_Port.png" alt="Shuqrah_Port  - View 1" width="49%">
+  <img src="./assets/Shuqrah_Port2.png" alt="Shuqrah_Port2  - View 2" width="49%">
 </p>
 
 ---
-
 
 ### ⚙️ خطوات التشغيل ومخطط العمل:
 1. يتم أخذ مسحوق الكوارتز فائق النقاء وتلقيمه داخل خلاطات آلية لمزجه بنسب دقيقة من راتنجات الألياف العضوية والأصباغ اللونية الفاخرة.
