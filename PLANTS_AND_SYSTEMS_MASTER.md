@@ -123,6 +123,22 @@ This comprehensive technical document specifies the mechanical workflows, curren
 *   **الالكتلة البيئية واللوجستية المحيطة:** مدمجة هندسياً ضمن التضاريس الجبلية الوعرة في محافظتي صنعاء وشبوة، ومتصلة بطرق جبلية ممهدة للنقل الثقيل.
 *   **التوقيع البرمجي المدمج بالأنظمة:** Powered by Eng. Awsan Adel Abdulbari Ahmed Sultan
 
+
+---
+
+<p align="center">
+  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port" width="1200">
+</p>
+
+---
+
+<p align="center">
+  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port  - View 1" width="49%">
+  <img src="./Shuqrah_Port2.png" alt="Shuqrah_Port2  - View 2" width="49%">
+</p>
+
+---
+
 ### ⚙️ المخطط الهندسي المتسلسل للمنظومة:
 *   **الخطوة 1:** سيور التلقيم الآلي المغلقة (Enclosed Feeders)
 *   **الخطوة 2:** الكسارات الفكية الثقيلة (Jaw Crushers)
@@ -146,6 +162,22 @@ This comprehensive technical document specifies the mechanical workflows, curren
 *   **المساحة الكلية المخصصة للموقع:** 150,000 متر مربع.
 *   **الالكتلة البيئية واللوجستية المحيطة:** تقع ضمن المنطقة الصناعية الساحلية المتطورة في العين السخنة، ومحاذية لشبكة طرق شحن ممهدة تربط المجمع بالموانئ البحرية.
 *   **التوقيع البرمجي المدمج بالأنظمة:** Powered by Eng. Awsan Adel Abdulbari Ahmed Sultan
+
+
+---
+
+<p align="center">
+  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port" width="1200">
+</p>
+
+---
+
+<p align="center">
+  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port  - View 1" width="49%">
+  <img src="./Shuqrah_Port2.png" alt="Shuqrah_Port2  - View 2" width="49%">
+</p>
+
+---
 
 ### ⚙️ المخطط الهندسي المتسلسل للمنظومة:
 *   **الخطوة 1:** صوامع التخزين المبطنة (Silica-lined Silos)
@@ -172,6 +204,22 @@ This comprehensive technical document specifies the mechanical workflows, curren
 *   **الالكتلة البيئية واللوجستية المحيطة:** تقع في منطقة معزولة ومحمية بيئياً (تراعي الشروط البيئية الصارمة لحماية محميات جزيرة سقطرى وجبال صنعاء).
 *   **التوقيع البرمجي المدمج بالأنظمة:** Powered by Eng. Awsan Adel Abdulbari Ahmed Sultan
 
+
+---
+
+<p align="center">
+  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port" width="1200">
+</p>
+
+---
+
+<p align="center">
+  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port  - View 1" width="49%">
+  <img src="./Shuqrah_Port2.png" alt="Shuqrah_Port2  - View 2" width="49%">
+</p>
+
+---
+
 ### ⚙️ المخطط الهندسي المتسلسل للمنظومة:
 *   **الخطوة 1:** سيور التجفيف الحراري (Thermal Belts)
 *   **الخطوة 2:** صوامع السقوط الحر (Gravity Chutes)
@@ -196,6 +244,22 @@ This comprehensive technical document specifies the mechanical workflows, curren
 *   **المساحة الكلية المخصصة للموقع:** 200,000 متر مربع.
 *   **الالكتلة البيئية واللوجستية المحيطة:** تقع في قلب المجمع الصناعي بالعين السخنة وتتصل مباشرة عبر أرصفة شحن بالميناء البحري الدولي العميق لتسهيل حركة الحاويات الكبيرة نحو أسواق التصدير العالمية.
 *   **التوقيع البرمجي المدمج بالأنظمة:** Powered by Eng. Awsan Adel Abdulbari Ahmed Sultan
+
+
+---
+
+<p align="center">
+  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port" width="1200">
+</p>
+
+---
+
+<p align="center">
+  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port  - View 1" width="49%">
+  <img src="./Shuqrah_Port2.png" alt="Shuqrah_Port2  - View 2" width="49%">
+</p>
+
+---
 
 ### ⚙️ المخطط الهندسي المتسلسل للمنظومة:
 *   **الخطوة 1:** خلاطات المزج والصب (Batch Mixers)
