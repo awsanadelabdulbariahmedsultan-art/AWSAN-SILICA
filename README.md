@@ -117,6 +117,13 @@ This project and all its technical and economic contents are the exclusive intel
   <img src="./assets/AWSAN SILICA2.png" alt="AWSAN SILICA2" width="1200">
 </p>
 
+---
+
+<p align="center">
+  <img src="./assets/AWSAN SILICA3.png" alt="AWSAN SILICA3" width="1200">
+</p>
+
+---
 
 أهلاً بكم في **سيليكا أوسان (AWSAN SILICA)**، المخطط الاستراتيجي الشامل والمسح الجيولوجي المتكامل لخرائط رواسب الكوارتز فائق النقاء (HPQ) ورمال السيليكا البكر وغير المستغلة في أراضي الجمهورية اليمنية.
 
