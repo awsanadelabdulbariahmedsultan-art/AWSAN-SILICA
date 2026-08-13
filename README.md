@@ -103,7 +103,7 @@ This project, including all technical, geological, economic, and programmatic co
 
 ---
 
-# 🌍 سيليكا أوسان: المشروع الاستراتيجي لتعدين الكوارتز ورمال السيليكا في اليمن (AWSAN SILICA)
+# 🌍 سيليكا أوسان AWSAN SILICA: المشروع الاستراتيجي لتعدين الكوارتز ورمال السيليكا في اليمن (AWSAN SILICA)
 
 <p align="center">
   <img src="./assets/AWSAN SILICA.png" alt="AWSAN SILICA" width="1200">
