@@ -8,6 +8,15 @@ This document details the roles, technical workflows, machinery requirements, an
 * **Role:** High-Intensity Ore Decontamination (Iron & Titanium Removal).
 * **Location Applied:** Primary Processing Hubs (Sana'a & Shabwah).
 
+---
+
+<p align="center">
+  <img src="./المرحلة الأولى لشركة Eriez محطة المعالجة الاولية.png" alt="المرحلة الأولى لشركة Eriez محطة المعالجة الاولية" width="1200">
+</p>
+
+
+---
+
 ### ⚙️ Operational Steps & Workflow:
 1. Raw silica sand with up to 0.5% iron impurity is fed onto a high-speed, durable conveyor belt.
 2. The material passes beneath **Eriez Rare Earth Electromagnetic Drums (HGMS)** generating intense magnetic flux fields.
@@ -99,7 +108,7 @@ Marketing Services.*
 ---
 
 <p align="center">
-  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port" width="1200">
+  <img src="./المرحلة الأولى لشركة Eriez محطة المعالجة الاولية.png" alt="المرحلة الأولى لشركة Eriez محطة المعالجة الاولية" width="1200">
 </p>
 
 ---
