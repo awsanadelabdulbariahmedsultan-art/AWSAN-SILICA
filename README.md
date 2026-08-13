@@ -101,9 +101,14 @@ This project and all its technical and economic contents are the exclusive intel
 
 # 🌍 سيليكا أوسان AWSAN SILICA: المشروع الاستراتيجي لتعدين الكوارتز ورمال السيليكا في اليمن (AWSAN SILICA)
 
-
 <p align="center">
   <img src="./assets/AWSAN SILICA.png" alt="AWSAN SILICA" width="1200">
+</p>
+
+---
+
+<p align="center">
+  <img src="./assets/AWSAN SILICA2.png" alt="AWSAN SILICA2" width="1200">
 </p>
 
 
