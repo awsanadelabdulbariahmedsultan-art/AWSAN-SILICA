@@ -38,12 +38,6 @@ This comprehensive technical document specifies the mechanical workflows, curren
 </p>
 
 
----
-
-
-<p align="center">
-  <img src="./assets/الصورة الجوية 1 منشأة الفصل والتنظيف.png" alt="الصورة الجوية 1 منشأة الفصل والتنظيف" width="1200">
-</p>
 
 ---
 
