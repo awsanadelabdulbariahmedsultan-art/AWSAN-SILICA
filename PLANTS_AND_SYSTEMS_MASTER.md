@@ -32,6 +32,7 @@ This comprehensive technical document specifies the mechanical workflows, curren
 
 
 
+
 <p align="center">
   <img src="./assets/منشأة الفصل والتنظيف من الداخل 40,000m2.png" alt="منشأة الفصل والتنظيف من الداخل 40,000m2" width="1200">
 </p>
