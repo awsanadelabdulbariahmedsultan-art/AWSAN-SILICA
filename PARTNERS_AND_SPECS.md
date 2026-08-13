@@ -160,12 +160,6 @@ Marketing Services.*
 
 ---
 
-<p align="center">
-  <img src="./assets/Shuqrah_Port.png" alt="Shuqrah_Port  - View 1" width="49%">
-  <img src="./assets/Shuqrah_Port2.png" alt="Shuqrah_Port2  - View 2" width="49%">
-</p>
-
----
 
 ### ⚙️ خطوات التشغيل ومخطط العمل:
 1. يتم تغذية السيور الناقلة برمال السيليكا الخام التي تحتوي على شوائب حديدية تصل إلى 0.5%.
@@ -194,14 +188,6 @@ Marketing Services.*
 
 ---
 
-<p align="center">
-  <img src="./assets/Shuqrah_Port.png" alt="Shuqrah_Port  - View 1" width="49%">
-  <img src="./assets/Shuqrah_Port2.png" alt="Shuqrah_Port2  - View 2" width="49%">
-</p>
-
----
-
-### ⚙️ خطوات التشغيل ومخطط العمل:
 1. يتم نقل الرمل المفرز مغناطيسياً إلى **مطاحن ميتسو العمودية المتقدمة (VTM)** لطحن الخام والوصول إلى حجم حبيبات ميكروني متجانس دون التسبب في أي تلوث حديدي (باستخدام بطانات سيراميكية).
 2. تدفق البودرة المطحونة إلى صهاريج ضخمة ومتصلة تُعرف بـ **خلايا التعويم الرغوي (Metso Flotation Cells)** حيث تُخلط بالماء ومواد رغوية متخصصة صديقة للبيئة.
 3. تلتصق الفقاعات المجهرية بشكل انتقائي بجزيئات "الفلدسبار" و"الميكا"، مما يؤدي إلى طفوها على السطح كطبقة رغوية كثيفة.
@@ -226,12 +212,6 @@ Marketing Services.*
   <img src="./assets/المنظومة المتكاملة الثالثة Tomra.png" alt="المنظومة المتكاملة الثالثة Tomra" width="1200">
 </p>
 
----
-
-<p align="center">
-  <img src="./assets/Shuqrah_Port.png" alt="Shuqrah_Port  - View 1" width="49%">
-  <img src="./assets/Shuqrah_Port2.png" alt="Shuqrah_Port2  - View 2" width="49%">
-</p>
 
 ---
 
@@ -260,13 +240,6 @@ Marketing Services.*
 
 <p align="center">
   <img src="./assets/The_Multi_Stage_Bretonstone_system_مرحلة_الإنتاج.png" alt="The_Multi_Stage_Bretonstone_system_مرحلة_الإنتاج" width="1200">
-</p>
-
----
-
-<p align="center">
-  <img src="./assets/Shuqrah_Port.png" alt="Shuqrah_Port  - View 1" width="49%">
-  <img src="./assets/Shuqrah_Port2.png" alt="Shuqrah_Port2  - View 2" width="49%">
 </p>
 
 ---
