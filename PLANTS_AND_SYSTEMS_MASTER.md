@@ -14,6 +14,14 @@ This comprehensive technical document specifies the mechanical workflows, curren
 *   **Environmental & Logistical Context:** Mechanically integrated into the rugged desert mountainous terrains of Sana'a and Shabwah governorates, connected by engineered, high-capacity haul access roads.
 *   **Embedded System Programming Tag:** Powered by Eng. Awsan Adel Abdulbari Ahmed Sultan
 
+---
+
+<p align="center">
+  <img src="./الصورة الجوية 1 منشأة الفصل والتنظيف.png" alt="الصورة الجوية 1 منشأة الفصل والتنظيف" width="1200">
+</p>
+
+---
+
 ### ⚙️ Sequential Engineering Workflow Chain:
 *   **Step 1:** Enclosed Feeder Conveyors
 *   **Step 2:** Heavy Industrial Jaw Crushers
@@ -37,6 +45,16 @@ This comprehensive technical document specifies the mechanical workflows, curren
 *   **Total Site Area Allocation:** 150,000 Square Meters.
 *   **Environmental & Logistical Context:** Located within the modern coastal industrial zone of Ain Sokhna, optimized next to high-capacity paved cargo highways linking the mega-complex directly to maritime ports.
 *   **Embedded System Programming Tag:** Powered by Eng. Awsan Adel Abdulbari Ahmed Sultan
+
+
+---
+
+<p align="center">
+  <img src="./الصورة الجوية 2 الطحن والتعويم الرغوي.png" alt="الصورة الجوية 2 الطحن والتعويم الرغوي" width="1200">
+</p>
+
+
+---
 
 ### ⚙️ Sequential Engineering Workflow Chain:
 *   **Step 1:** Silica-Lined Storage Silos
@@ -63,6 +81,17 @@ This comprehensive technical document specifies the mechanical workflows, curren
 *   **Environmental & Logistical Context:** Situated inside a highly secured, ecologically isolated zone (tailored to fulfill strict environmental guidelines protecting the UNESCO biosphere of Socotra and Sana'a ridges).
 *   **Embedded System Programming Tag:** Powered by Eng. Awsan Adel Abdulbari Ahmed Sultan
 
+
+
+---
+
+<p align="center">
+  <img src="./الصورة الجوية 3 منشأة الفرز.png" alt="الصورة الجوية 3 منشأة الفرز" width="1200">
+</p>
+
+
+---
+
 ### ⚙️ Sequential Engineering Workflow Chain:
 *   **Step 1:** Industrial Thermal Drying Belts
 *   **Step 2:** Gravity-Fed Vertical Feeding Chutes
@@ -87,6 +116,16 @@ This comprehensive technical document specifies the mechanical workflows, curren
 *   **Total Site Area Allocation:** 200,000 Square Meters.
 *   **Environmental & Logistical Context:** Strategically positioned at the core of the Ain Sokhna complex, linked via automated transit lanes directly to deep-water maritime shipping docks to accelerate heavy global exports.
 *   **Embedded System Programming Tag:** Powered by Eng. Awsan Adel Abdulbari Ahmed Sultan
+
+
+---
+
+
+<p align="center">
+  <img src="./الصورة الجوية 4 منشأة تصنيع الألواح.png" alt="الصورة الجوية 4 منشأة تصنيع الألواح" width="1200">
+</p>
+
+---
 
 ### ⚙️ Sequential Engineering Workflow Chain:
 *   **Step 1:** Industrial Composite Batch Mixers
@@ -127,7 +166,7 @@ This comprehensive technical document specifies the mechanical workflows, curren
 ---
 
 <p align="center">
-  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port" width="1200">
+  <img src="./الصورة الجوية 1 منشأة الفصل والتنظيف.png" alt="الصورة الجوية 1 منشأة الفصل والتنظيف" width="1200">
 </p>
 
 ---
@@ -167,7 +206,7 @@ This comprehensive technical document specifies the mechanical workflows, curren
 ---
 
 <p align="center">
-  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port" width="1200">
+  <img src="./الصورة الجوية 2 الطحن والتعويم الرغوي.png" alt="الصورة الجوية 2 الطحن والتعويم الرغوي" width="1200">
 </p>
 
 ---
@@ -208,7 +247,7 @@ This comprehensive technical document specifies the mechanical workflows, curren
 ---
 
 <p align="center">
-  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port" width="1200">
+  <img src="./الصورة الجوية 3 منشأة الفرز.png" alt="الصورة الجوية 3 منشأة الفرز" width="1200">
 </p>
 
 ---
@@ -249,7 +288,7 @@ This comprehensive technical document specifies the mechanical workflows, curren
 ---
 
 <p align="center">
-  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port" width="1200">
+  <img src="./الصورة الجوية 4 منشأة تصنيع الألواح.png" alt="الصورة الجوية 4 منشأة تصنيع الألواح" width="1200">
 </p>
 
 ---
