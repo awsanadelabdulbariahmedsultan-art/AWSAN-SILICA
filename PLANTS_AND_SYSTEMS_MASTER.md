@@ -28,6 +28,14 @@ This comprehensive technical document specifies the mechanical workflows, curren
   <img src="./assets/الصورة الجوية 1 منشأة الفصل والتنظيف.png" alt="الصورة الجوية 1 منشأة الفصل والتنظيف" width="1200">
 </p>
 
+
+---
+
+
+<p align="center">
+  <img src="./assets/الصورة الجوية 1 منشأة الفصل والتنظيف.png" alt="الصورة الجوية 1 منشأة الفصل والتنظيف" width="1200">
+</p>
+
 ---
 
 ### ⚙️ Sequential Engineering Workflow Chain:
@@ -61,6 +69,12 @@ This comprehensive technical document specifies the mechanical workflows, curren
   <img src="./assets/الصورة الجوية 2 الطحن والتعويم الرغوي.png" alt="الصورة الجوية 2 الطحن والتعويم الرغوي" width="1200">
 </p>
 
+---
+
+
+<p align="center">
+  <img src="./assets/من الداخل الطحن والتعويم الرغوي الكيميائي 60,000m2.png" alt="من الداخل الطحن والتعويم الرغوي الكيميائي 60,000m2" width="1200">
+</p>
 
 ---
 
@@ -96,6 +110,15 @@ This comprehensive technical document specifies the mechanical workflows, curren
 <p align="center">
   <img src="./assets/الصورة الجوية 3 منشأة الفرز.png" alt="الصورة الجوية 3 منشأة الفرز" width="1200">
 </p>
+
+---
+
+
+
+<p align="center">
+  <img src="./assets/المنشأة من الداخل الفرز البصري بالليزر 35,000m2.png" alt="المنشأة من الداخل الفرز البصري بالليزر 35,000m2" width="1200">
+</p>
+
 
 
 ---
@@ -184,6 +207,15 @@ This comprehensive technical document specifies the mechanical workflows, curren
   <img src="./assets/الصورة الجوية 1 منشأة الفصل والتنظيف.png" alt="الصورة الجوية 1 منشأة الفصل والتنظيف" width="1200">
 </p>
 
+
+---
+
+<p align="center">
+  <img src="./assets/الصورة الجوية 1 منشأة الفصل والتنظيف.png" alt="الصورة الجوية 1 منشأة الفصل والتنظيف" width="1200">
+</p>
+
+
+
 ---
 
 <p align="center">
@@ -227,6 +259,13 @@ This comprehensive technical document specifies the mechanical workflows, curren
 ---
 
 <p align="center">
+  <img src="./assets/من الداخل الطحن والتعويم الرغوي الكيميائي 60,000m2.png" alt="من الداخل الطحن والتعويم الرغوي الكيميائي 60,000m2" width="1200">
+</p>
+
+
+---
+
+<p align="center">
   <img src="./assets/Shuqrah_Port.png" alt="Shuqrah_Port  - View 1" width="49%">
   <img src="./assets/Shuqrah_Port2.png" alt="Shuqrah_Port2  - View 2" width="49%">
 </p>
@@ -264,6 +303,14 @@ This comprehensive technical document specifies the mechanical workflows, curren
 <p align="center">
   <img src="./assets/الصورة الجوية 3 منشأة الفرز.png" alt="الصورة الجوية 3 منشأة الفرز" width="1200">
 </p>
+
+
+---
+
+<p align="center">
+  <img src="./assets/المنشأة من الداخل الفرز البصري بالليزر 35,000m2.png" alt="المنشأة من الداخل الفرز البصري بالليزر 35,000m2" width="1200">
+</p>
+
 
 ---
 
@@ -305,6 +352,13 @@ This comprehensive technical document specifies the mechanical workflows, curren
 <p align="center">
   <img src="./assets/الصورة الجوية 4 منشأة تصنيع الألواح.png" alt="الصورة الجوية 4 منشأة تصنيع الألواح" width="1200">
 </p>
+
+---
+
+<p align="center">
+  <img src="./assets/الصورة الجوية 1 منشأة الفصل والتنظيف.png" alt="الصورة الجوية 1 منشأة الفصل والتنظيف" width="1200">
+</p>
+
 
 ---
 
