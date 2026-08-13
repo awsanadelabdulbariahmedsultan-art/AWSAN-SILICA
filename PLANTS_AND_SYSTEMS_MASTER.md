@@ -2,6 +2,14 @@
 ---
 # 🏭 Plants & Systems Master Engineering Blueprint (PLANTS_AND_SYSTEMS_MASTER)
 
+---
+
+<p align="center">
+  <img src="./assets/التجسيد ثلاثي الأبعاد المقطوع Cutaway View.png" alt="التجسيد ثلاثي الأبعاد المقطوع Cutaway View" width="1200">
+</p>
+
+---
+
 This comprehensive technical document specifies the mechanical workflows, current operational footprints, future expansion zones, and major machinery configurations for the four industrial plants of the **AWSAN SILICA** project, developed and owned exclusively by **Awsan Dew For Marketing Services** under the direct leadership and management of **Eng. Awsan Adel Abdulbari Ahmed Sultan**.
 
 ---
@@ -17,7 +25,7 @@ This comprehensive technical document specifies the mechanical workflows, curren
 ---
 
 <p align="center">
-  <img src="./الصورة الجوية 1 منشأة الفصل والتنظيف.png" alt="الصورة الجوية 1 منشأة الفصل والتنظيف" width="1200">
+  <img src="./assets/الصورة الجوية 1 منشأة الفصل والتنظيف.png" alt="الصورة الجوية 1 منشأة الفصل والتنظيف" width="1200">
 </p>
 
 ---
@@ -50,7 +58,7 @@ This comprehensive technical document specifies the mechanical workflows, curren
 ---
 
 <p align="center">
-  <img src="./الصورة الجوية 2 الطحن والتعويم الرغوي.png" alt="الصورة الجوية 2 الطحن والتعويم الرغوي" width="1200">
+  <img src="./assets/الصورة الجوية 2 الطحن والتعويم الرغوي.png" alt="الصورة الجوية 2 الطحن والتعويم الرغوي" width="1200">
 </p>
 
 
@@ -86,7 +94,7 @@ This comprehensive technical document specifies the mechanical workflows, curren
 ---
 
 <p align="center">
-  <img src="./الصورة الجوية 3 منشأة الفرز.png" alt="الصورة الجوية 3 منشأة الفرز" width="1200">
+  <img src="./assets/الصورة الجوية 3 منشأة الفرز.png" alt="الصورة الجوية 3 منشأة الفرز" width="1200">
 </p>
 
 
@@ -122,7 +130,7 @@ This comprehensive technical document specifies the mechanical workflows, curren
 
 
 <p align="center">
-  <img src="./الصورة الجوية 4 منشأة تصنيع الألواح.png" alt="الصورة الجوية 4 منشأة تصنيع الألواح" width="1200">
+  <img src="./assets/الصورة الجوية 4 منشأة تصنيع الألواح.png" alt="الصورة الجوية 4 منشأة تصنيع الألواح" width="1200">
 </p>
 
 ---
@@ -166,14 +174,14 @@ This comprehensive technical document specifies the mechanical workflows, curren
 ---
 
 <p align="center">
-  <img src="./الصورة الجوية 1 منشأة الفصل والتنظيف.png" alt="الصورة الجوية 1 منشأة الفصل والتنظيف" width="1200">
+  <img src="./assets/الصورة الجوية 1 منشأة الفصل والتنظيف.png" alt="الصورة الجوية 1 منشأة الفصل والتنظيف" width="1200">
 </p>
 
 ---
 
 <p align="center">
-  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port  - View 1" width="49%">
-  <img src="./Shuqrah_Port2.png" alt="Shuqrah_Port2  - View 2" width="49%">
+  <img src="./assets/Shuqrah_Port.png" alt="Shuqrah_Port  - View 1" width="49%">
+  <img src="./assets/Shuqrah_Port2.png" alt="Shuqrah_Port2  - View 2" width="49%">
 </p>
 
 ---
@@ -206,14 +214,14 @@ This comprehensive technical document specifies the mechanical workflows, curren
 ---
 
 <p align="center">
-  <img src="./الصورة الجوية 2 الطحن والتعويم الرغوي.png" alt="الصورة الجوية 2 الطحن والتعويم الرغوي" width="1200">
+  <img src="./assets/الصورة الجوية 2 الطحن والتعويم الرغوي.png" alt="الصورة الجوية 2 الطحن والتعويم الرغوي" width="1200">
 </p>
 
 ---
 
 <p align="center">
-  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port  - View 1" width="49%">
-  <img src="./Shuqrah_Port2.png" alt="Shuqrah_Port2  - View 2" width="49%">
+  <img src="./assets/Shuqrah_Port.png" alt="Shuqrah_Port  - View 1" width="49%">
+  <img src="./assets/Shuqrah_Port2.png" alt="Shuqrah_Port2  - View 2" width="49%">
 </p>
 
 ---
@@ -247,14 +255,14 @@ This comprehensive technical document specifies the mechanical workflows, curren
 ---
 
 <p align="center">
-  <img src="./الصورة الجوية 3 منشأة الفرز.png" alt="الصورة الجوية 3 منشأة الفرز" width="1200">
+  <img src="./assets/الصورة الجوية 3 منشأة الفرز.png" alt="الصورة الجوية 3 منشأة الفرز" width="1200">
 </p>
 
 ---
 
 <p align="center">
-  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port  - View 1" width="49%">
-  <img src="./Shuqrah_Port2.png" alt="Shuqrah_Port2  - View 2" width="49%">
+  <img src="./assets/Shuqrah_Port.png" alt="Shuqrah_Port  - View 1" width="49%">
+  <img src="./assets/Shuqrah_Port2.png" alt="Shuqrah_Port2  - View 2" width="49%">
 </p>
 
 ---
@@ -288,14 +296,14 @@ This comprehensive technical document specifies the mechanical workflows, curren
 ---
 
 <p align="center">
-  <img src="./الصورة الجوية 4 منشأة تصنيع الألواح.png" alt="الصورة الجوية 4 منشأة تصنيع الألواح" width="1200">
+  <img src="./assets/الصورة الجوية 4 منشأة تصنيع الألواح.png" alt="الصورة الجوية 4 منشأة تصنيع الألواح" width="1200">
 </p>
 
 ---
 
 <p align="center">
-  <img src="./Shuqrah_Port.png" alt="Shuqrah_Port  - View 1" width="49%">
-  <img src="./Shuqrah_Port2.png" alt="Shuqrah_Port2  - View 2" width="49%">
+  <img src="./assets/Shuqrah_Port.png" alt="Shuqrah_Port  - View 1" width="49%">
+  <img src="./assets/Shuqrah_Port2.png" alt="Shuqrah_Port2  - View 2" width="49%">
 </p>
 
 ---
