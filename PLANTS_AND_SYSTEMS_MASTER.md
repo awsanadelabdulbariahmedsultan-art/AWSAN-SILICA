@@ -28,6 +28,14 @@ This comprehensive technical document specifies the mechanical workflows, curren
   <img src="./assets/الصورة الجوية 1 منشأة الفصل والتنظيف.png" alt="الصورة الجوية 1 منشأة الفصل والتنظيف" width="1200">
 </p>
 
+---
+
+
+
+<p align="center">
+  <img src="./assets/منشأة الفصل والتنظيف من الداخل 40,000m2.png" alt="منشأة الفصل والتنظيف من الداخل 40,000m2" width="1200">
+</p>
+
 
 ---
 
@@ -156,6 +164,15 @@ This comprehensive technical document specifies the mechanical workflows, curren
   <img src="./assets/الصورة الجوية 4 منشأة تصنيع الألواح.png" alt="الصورة الجوية 4 منشأة تصنيع الألواح" width="1200">
 </p>
 
+
+---
+
+
+
+<p align="center">
+  <img src="./assets/منشأة تصنيع الألواح والمنتج النهائي 80,000m2.png" alt="منشأة تصنيع الألواح والمنتج النهائي 80,000m2" width="1200">
+</p>
+
 ---
 
 ### ⚙️ Sequential Engineering Workflow Chain:
@@ -211,7 +228,7 @@ This comprehensive technical document specifies the mechanical workflows, curren
 ---
 
 <p align="center">
-  <img src="./assets/الصورة الجوية 1 منشأة الفصل والتنظيف.png" alt="الصورة الجوية 1 منشأة الفصل والتنظيف" width="1200">
+  <img src="./assets/منشأة الفصل والتنظيف من الداخل 40,000m2.png" alt="منشأة الفصل والتنظيف من الداخل 40,000m2" width="1200">
 </p>
 
 
@@ -356,7 +373,7 @@ This comprehensive technical document specifies the mechanical workflows, curren
 ---
 
 <p align="center">
-  <img src="./assets/الصورة الجوية 1 منشأة الفصل والتنظيف.png" alt="الصورة الجوية 1 منشأة الفصل والتنظيف" width="1200">
+  <img src="./assets/منشأة تصنيع الألواح والمنتج النهائي 80,000m2.png" alt="منشأة تصنيع الألواح والمنتج النهائي 80,000m2" width="1200">
 </p>
 
 
