@@ -1,5 +1,13 @@
 # 🤝 AWSAN SILICA: International Strategic Partners & Technical Specs
 
+---
+
+<p align="center">
+  <img src="./assets/التصوير الجوي للمنشآت والمجمعات من الخارج.png" alt="التصوير الجوي للمنشآت والمجمعات من الخارج width="1200">
+</p>
+
+---
+
 This document details the roles, technical workflows, machinery requirements, and execution steps for each global strategic partner involved in the **AWSAN SILICA** project, managed by **Awsan Dew For Marketing Services**.
 
 ---
@@ -9,6 +17,7 @@ This document details the roles, technical workflows, machinery requirements, an
 * **Location Applied:** Primary Processing Hubs (Sana'a & Shabwah).
 
 ---
+
 
 <p align="center">
   <img src="./assets/المرحلة الأولى لشركة Eriez محطة المعالجة الاولية.png" alt="المرحلة الأولى لشركة Eriez محطة المعالجة الاولية" width="1200">
@@ -36,6 +45,17 @@ This document details the roles, technical workflows, machinery requirements, an
 * **Role:** Fine Pulverization and Micro-Impurity Chemical Isolation.
 * **Location Applied:** Industrial Refining Plants (Ain Sokhna & Main Coastal Hubs).
 
+
+---
+
+<p align="center">
+  <img src="./assets/المطاحن المبطنة بالسيراميك وأحواض التعويم الرغوي.png" alt="المطاحن المبطنة بالسيراميك وأحواض التعويم الرغوي width="1200">
+</p>
+
+
+---
+
+
 ### ⚙️ Operational Steps & Workflow:
 1. Refined sand is transferred into **Metso Vertical Grinding Mills (VTM)** to achieve uniform micro-grain distribution without iron contamination.
 2. The pulverized powder enters massive, interconnected **Metso Froth Flotation Cells (Tanks)** mixed with water and eco-friendly frothing agents.
@@ -55,6 +75,15 @@ This document details the roles, technical workflows, machinery requirements, an
 * **Role:** Mid-Air High-Precision Optical Purification (99.4%+ Purity Assurance).
 * **Location Applied:** Advanced Finishing Lines (Sana'a & Socotra Eco-Line).
 
+
+---
+
+<p align="center">
+  <img src="./assets/المنظومة المتكاملة الثالثة Tomra.png" alt="المنظومة المتكاملة الثالثة Tomra" width="1200">
+</p>
+
+---
+
 ### ⚙️ Operational Steps & Workflow:
 1. Dried quartz grains are dropped through a vertical gravity-fed feeding chute at high velocity.
 2. Dual-channel **TOMRA Laser Sensors and Color High-Definition Cameras** scan every falling grain in mid-air within milliseconds.
@@ -73,6 +102,16 @@ This document details the roles, technical workflows, machinery requirements, an
 ## 4️⃣ Breton S.p.A (Italy) — Phase 4: Luxury Finished Product Manufacturing
 * **Role:** High-Value Transformation (Engineered Polished Quartz Slabs).
 * **Location Applied:** Main Manufacturing Facility (Ain Sokhna Mega-Complex).
+
+---
+
+
+<p align="center">
+  <img src="./assets/The_Multi_Stage_Bretonstone_system_مرحلة_الإنتاج.png" alt="The_Multi_Stage_Bretonstone_system_مرحلة_الإنتاج" width="1200">
+</p>
+
+---
+
 
 ### ⚙️ Operational Steps & Workflow:
 1. Ultra-pure quartz powder from previous stages is blended with high-grade organic resins and color pigments.
@@ -142,7 +181,7 @@ Marketing Services.*
 ---
 
 <p align="center">
-  <img src="./assets/المرحلة الأولى لشركة Eriez محطة المعالجة الاولية.png" alt="المرحلة الأولى لشركة Eriez محطة المعالجة الاولية" width="1200">
+  <img src="./assets/المطاحن المبطنة بالسيراميك وأحواض التعويم الرغوي.png" alt="المطاحن المبطنة بالسيراميك وأحواض التعويم الرغوي width="1200">
 </p>
 
 ---
@@ -176,7 +215,7 @@ Marketing Services.*
 ---
 
 <p align="center">
-  <img src="./assets/المرحلة الأولى لشركة Eriez محطة المعالجة الاولية.png" alt="المرحلة الأولى لشركة Eriez محطة المعالجة الاولية" width="1200">
+  <img src="./assets/المنظومة المتكاملة الثالثة Tomra.png" alt="المنظومة المتكاملة الثالثة Tomra" width="1200">
 </p>
 
 ---
@@ -212,7 +251,7 @@ Marketing Services.*
 ---
 
 <p align="center">
-  <img src="./assets/المرحلة الأولى لشركة Eriez محطة المعالجة الاولية.png" alt="المرحلة الأولى لشركة Eriez محطة المعالجة الاولية" width="1200">
+  <img src="./assets/The_Multi_Stage_Bretonstone_system_مرحلة_الإنتاج.png" alt="The_Multi_Stage_Bretonstone_system_مرحلة_الإنتاج" width="1200">
 </p>
 
 ---
