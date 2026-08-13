@@ -13,6 +13,12 @@
 
 ---
 
+<p align="center">
+  <img src="./assets/AWSAN SILICA3.png" alt="AWSAN SILICA3" width="1200">
+</p>
+
+---
+
 Welcome to **AWSAN SILICA**, a comprehensive strategic blueprint and geological survey mapping the massive, untapped high-purity quartz (HPQ) and silica sand deposits across the Republic of Yemen. 
 
 Yemen holds an estimated **2 Billion cubic meters** of high-purity silica sandstone (up to **99.4% purity**) and over **13 Million cubic meters** of pure quartz vein crystalline deposits. This repository serves as a development hub for feasibility studies, processing workflows, and investment frameworks.
