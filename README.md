@@ -1,5 +1,10 @@
 # 🌍 AWSAN SILICA: Strategic Quartz & Silica Sand Mining Project in Yemen
 
+
+<p align="center">
+  <img src="./assets/AWSAN SILICA.png" alt="AWSAN SILICA" width="1200">
+</p>
+
 Welcome to **AWSAN SILICA**, a comprehensive strategic blueprint and geological survey mapping the massive, untapped high-purity quartz (HPQ) and silica sand deposits across the Republic of Yemen. 
 
 Yemen holds an estimated **2 Billion cubic meters** of high-purity silica sandstone (up to **99.4% purity**) and over **13 Million cubic meters** of pure quartz vein crystalline deposits. This repository serves as a development hub for feasibility studies, processing workflows, and investment frameworks.
@@ -87,6 +92,12 @@ This project and all its technical and economic contents are the exclusive intel
 ---
 
 # 🌍 سيليكا أوسان AWSAN SILICA: المشروع الاستراتيجي لتعدين الكوارتز ورمال السيليكا في اليمن (AWSAN SILICA)
+
+
+<p align="center">
+  <img src="./assets/AWSAN SILICA.png" alt="AWSAN SILICA" width="1200">
+</p>
+
 
 أهلاً بكم في **سيليكا أوسان (AWSAN SILICA)**، المخطط الاستراتيجي الشامل والمسح الجيولوجي المتكامل لخرائط رواسب الكوارتز فائق النقاء (HPQ) ورمال السيليكا البكر وغير المستغلة في أراضي الجمهورية اليمنية.
 
