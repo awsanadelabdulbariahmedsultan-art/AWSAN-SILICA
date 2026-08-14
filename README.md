@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="./assets/AWSAN SILICA.png" alt="AWSAN SILICA" width="1200">
+  <img src="./assets/صورة جوية للتصميم الخارجي للمنشأة الصناعية.png" alt="صورة جوية للتصميم الخارجي للمنشأة الصناعية" width="1200">
 </p>
 
 ---
@@ -106,7 +106,7 @@ This project, including all technical, geological, economic, and programmatic co
 # 🌍 سيليكا أوسان AWSAN SILICA: المشروع الاستراتيجي لتعدين الكوارتز ورمال السيليكا في اليمن (AWSAN SILICA)
 
 <p align="center">
-  <img src="./assets/AWSAN SILICA.png" alt="AWSAN SILICA" width="1200">
+  <img src="./assets/صورة جوية للتصميم الخارجي للمنشأة الصناعية.png" alt="صورة جوية للتصميم الخارجي للمنشأة الصناعية" width="1200">
 </p>
 
 ---
