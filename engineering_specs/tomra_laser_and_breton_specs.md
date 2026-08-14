@@ -5,6 +5,12 @@
 
 ---
 
+
+<p align="center">
+  <img src="./assets/إنفوجرافيك -منشآت مجمع اوسان سيليكا AWSAN SILICA .png" alt="إنفوجرافيك -منشآت مجمع اوسان سيليكا AWSAN SILICA " width="1200">
+</p>
+---
+
 ## 📌 PHASE 1 & 2: PRIMARY BENEFICIATION (MAGNETIC SEPARATION & FROTH FLOTATION)
 
 Based on the highly continuous industrial cascade configured for initial and secondary impurity extraction, the beneficiation bay operates via integrated macro-mechanical systems:
@@ -54,6 +60,15 @@ The autonomous multi-phase production sequence, robot trajectory sync, and laser
 ## البنية التحتية المتقدمة لسلسلة القيمة لمجمع أوسان للسيليكا فائقة النقاء (AWSAN-SILICA)
 
 ---
+
+
+<p align="center">
+  <img src="./assets/إنفوجرافيك -منشآت مجمع اوسان سيليكا AWSAN SILICA .png" alt="إنفوجرافيك -منشآت مجمع اوسان سيليكا AWSAN SILICA " width="1200">
+</p>
+
+---
+
+
 
 ## 📌 المرحلة 1 و 2: المعالجة الأولية (الفصل المغناطيسي والتعويم الرغوي)
 
