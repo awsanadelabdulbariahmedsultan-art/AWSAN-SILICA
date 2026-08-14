@@ -1,5 +1,14 @@
 # AWSAN-SILICA/engineering_specs/metso_vtm_flotation_specs.md
 
+---
+
+<p align="center">
+  <img src="./assets/من الداخل الطحن والتعويم الرغوي الكيميائي 60,000m2.png" alt="من الداخل الطحن والتعويم الرغوي الكيميائي 60,000m2" width="1200">
+</p>
+
+
+---
+
 # Engineering Specifications Document: Metso VTM Micronization & Multi-Cell Flotation Infrastructure
 ## AWSAN Ultra-High Purity Silica Processing Hyper-Complex (AWSAN-SILICA)
 
@@ -44,6 +53,12 @@ The control platform located at the front of the production deck manages process
 
 # وثيقة المواصفات الهندسية: بنية السحق والميكرونية بطواحين Metso VTM ومصنع تعويم الرغوة متعدد الخلايا
 ## مجمع أوسان لمعالجة السيليكا فائقة النقاء (AWSAN-SILICA)
+---
+
+
+<p align="center">
+  <img src="./assets/من الداخل الطحن والتعويم الرغوي الكيميائي 60,000m2.png" alt="من الداخل الطحن والتعويم الرغوي الكيميائي 60,000m2" width="1200">
+</p>
 
 ---
 
