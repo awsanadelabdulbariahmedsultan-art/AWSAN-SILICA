@@ -161,6 +161,15 @@ This document outlines the geographical and industrial space allocations, inner 
 *   **Future Roadmap:** Deploying additional specialized robotic lines for smart anti-bacterial surfaces engineered for cleanrooms, high-tech labs, and surgical rooms, expanding the global distribution network of **Awsan Dew For Marketing Services**.
 
 #### 🏢 Supporting Facilities: Smart Warehouses, Administrative HQ, & Rooftop Solar Grid
+
+---
+
+<p align="center">
+  <img src="./assets/صورة جوية للتصميم الخارجي للمنشأة الصناعية.png" alt="صورة جوية للتصميم الخارجي للمنشأة الصناعية" width="1200">
+</p>
+
+---
+
 *   **Space Allocation:** **62,000 Square Meters**.
 *   **Current Roadmap:** Erecting climate-controlled smart inventory centers to store polished slabs and high-purity quartz packaging. Building the corporate administrative HQ and a high-yield rooftop solar array to supply clean power to the facility.
 *   **Future Roadmap:** Achieving full warehouse automation using Autonomous Mobile Robots (AMRs) for automated material handling and direct container loading to expedite maritime exports.
@@ -322,6 +331,14 @@ This document outlines the geographical and industrial space allocations, inner 
 ---
 
 *   **المساحة المخصصة:** **80,000 متر مربع** (المنشأة الأكبر مساحة في المجمع).
+
+---
+
+<p align="center">
+  <img src="./assets/صورة جوية للتصميم الخارجي للمنشأة الصناعية.png" alt="صورة جوية للتصميم الخارجي للمنشأة الصناعية" width="1200">
+</p>
+
+---
 *   **الخطة الحالية:** تركيب خط إنتاج آلي بالكامل بتكنولوجيا BretonStone الإيطالية المحتكرة لتحويل بودرة الكوارتز المكررة إلى ألواح هندسية فاخرة ومصقولة بمقاسات عالمية، وتصديرها للفنادق والمستشفيات لمضاعفة سعر الطن من 20 دولاراً إلى آلاف الدولارات.
 *   **الخطة المستقبلية:** التوسع في تشغيل خطوط آلية إضافية مخصصة للأسطح الذكية المضادة للبكتيريا (Smart Anti-bacterial Surfaces) للمختبرات الدقيقة وغرف العمليات الطبية، وتوسيع شبكة التوزيع العالمي لمؤسسة **أوسان دو**.
 
