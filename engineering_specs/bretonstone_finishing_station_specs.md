@@ -5,6 +5,12 @@
 
 ---
 
+<p align="center">
+  <img src="./assets/The_Multi_Stage_Bretonstone_system_مرحلة_الإنتاج.png" alt="The_Multi_Stage_Bretonstone_system_مرحلة_الإنتاج" width="1200">
+</p>
+
+---
+
 ## 📌 1. Process Engineering & Mechanical Finishing Infrastructure (Bretonstone® System)
 
 Based on the continuous industrial automation configuration optimized for surface calibration, high-gloss stone texturing, and diamond-edge slicing, the finishing bay operates via integrated cyber-physical tracks:
@@ -42,6 +48,13 @@ The complete physical and chemical finishing sequence, multi-axis robot trajecto
 
 # وثيقة المواصفات الهندسية: محطة التلميع الروبوتية متعددة المحاور ومعايرة الحواف وعقدة الأتمتة الميدانية
 ## البنية التحتية المتقدمة لسلسلة القيمة لمجمع أوسان للسيليكا فائقة النقاء (AWSAN-SILICA)
+
+---
+
+
+<p align="center">
+  <img src="./assets/The_Multi_Stage_Bretonstone_system_مرحلة_الإنتاج.png" alt="The_Multi_Stage_Bretonstone_system_مرحلة_الإنتاج" width="1200">
+</p>
 
 ---
 
