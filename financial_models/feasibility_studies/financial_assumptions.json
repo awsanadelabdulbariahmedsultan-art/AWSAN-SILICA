@@ -1,0 +1,76 @@
+{
+  "project_metadata": {
+    "project_name": "AWSAN SILICA",
+    "parent_company": "Awsan Dew For Marketing Services",
+    "founder_and_chief_engineer": "Eng. Awsan Adel Abdulbari Ahmed Sultan",
+    "national_id_yemen": "01010305468",
+    "evaluation_year": 2026,
+    "system_tag": "Powered by Eng. Awsan Adel Abdulbari Ahmed Sultan"
+  },
+  "macroeconomic_assumptions": {
+    "base_currency": "USD",
+    "global_silica_market_inflation_rate": 0.035,
+    "project_discount_rate_wacc": 0.085,
+    "contingency_reserve_percentage": 0.10,
+    "local_tax_exemption_horizon_years": 10
+  },
+  "production_and_yield_metrics": {
+    "target_annual_tonnage": 500000,
+    "value_chain_distribution_percentages": {
+      "raw_sand_tier_1": 0.40,
+      "refined_powder_tier_2": 0.35,
+      "high_purity_quartz_hpq_tier_3": 0.15,
+      "bretonstone_luxury_slabs_tier_4": 0.10
+    }
+  },
+  "global_market_pricing_per_ton_usd": {
+    "raw_silica_sand_price": 20,
+    "refined_silica_powder_price": 250,
+    "high_purity_quartz_hpq_4n_price": 4000,
+    "bretonstone_polished_slabs_price": 3500
+  },
+  "capital_and_operational_baselines_usd": {
+    "total_estimated_capex": 125000000,
+    "total_estimated_annual_opex": 45000000
+  }
+}
+
+
+---
+
+{
+  "البيانات_التعريفية_للمشروع": {
+    "اسم_المشروع": "AWSAN SILICA",
+    "الشركة_الأم": "Awsan Dew For Marketing Services",
+    "المؤسس_والمهندس_رئيس_مجلس_الإدارة": "Eng. Awsan Adel Abdulbari Ahmed Sultan",
+    "الرقم_الوطني_اليمن": "01010305468",
+    "سنة_تقييم_البيانات": 2026,
+    "وسم_الملكية_النظامي": "Powered by Eng. Awsan Adel Abdulbari Ahmed Sultan"
+  },
+  "فرضيات_الاقتصاد_الكلي": {
+    "العملة_الأساسية": "USD",
+    "معدل_التضخم_السنوي_لسوق_السيليكا_العالمي": 0.035,
+    "معدل_الخصم_البنكي_للمشروع_WACC": 0.085,
+    "نسبة_احتياطي_الطوارئ_المالي": 0.10,
+    "أفق_الإعفاء_الضريبي_المحلي_بالسنوات": 10
+  },
+  "مؤشرات_الإنتاج_وحجم_العوائد": {
+    "حجم_الإنتاج_السنوي_المستهدف_بالطن": 500000,
+    "نسب_توزيع_الإنتاج_على_سلسلة_القيمة": {
+      "الرمل_الأبيض_الخام_المستوى_1": 0.40,
+      "مسحوق_السيليكا_المكرر_المستوى_2": 0.35,
+      "الكوارتز_فائق_النقاء_HPQ_المستوى_3": 0.15,
+      "ألواح_الكوارتز_الفاخرة_Breton_المستوى_4": 0.10
+    }
+  },
+  "أسعار_السوق_العالمية_المتوقعة_لكل_طن_بالدولار": {
+    "سعر_الرمل_السيليسي_الخام": 20,
+    "سعر_مسحوق_السيليكا_المكرر": 250,
+    "سعر_الكوارتز_فائق_النقاء_HPQ_4N": 4000,
+    "سعر_ألواح_الكوارتز_المركبة_المصقولة": 3500
+  },
+  "الخطوط_الأساسية_للتكاليف_الرأسمالية_والتشغيلية_بالدولار": {
+    "إجمالي_التكاليف_الرأسمالية_التأسيسية_CAPEX": 125000000,
+    "إجمالي_التكاليف_التشغيلية_السنوية_OPEX": 45000000
+  }
+}
