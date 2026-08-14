@@ -5,6 +5,14 @@
 
 ---
 
+
+
+<p align="center">
+  <img src="./assets/المطاحن المبطنة بالسيراميك وأحواض التعويم الرغوي.png" alt="المطاحن المبطنة بالسيراميك وأحواض التعويم الرغوي" width="1200">
+</p>
+
+---
+
 ## 📌 1. Internal Mechanical Engineering & Hydrocyclone Distribution Line
 
 Based on the detailed structural cross-section and process topology showcased in the latest production bay layout, the infrastructure handles advanced physical liberation and fine particle fluidization via three core subsystems:
@@ -50,6 +58,17 @@ The automated operating architecture, telemetry sync, and structural layout are 
 ## مجمع أوسان لمعالجة السيليكا فائقة النقاء (AWSAN-SILICA)
 
 ---
+
+
+
+<p align="center">
+  <img src="./assets/المطاحن المبطنة بالسيراميك وأحواض التعويم الرغوي.png" alt="المطاحن المبطنة بالسيراميك وأحواض التعويم الرغوي" width="1200">
+</p>
+
+
+
+---
+
 
 ## 📌 1. الهندسة الميكانيكية الداخلية وخطوط التوزيع الهيدروليكية للنقل
 
