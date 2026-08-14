@@ -5,6 +5,13 @@
 
 ---
 
+<p align="center">
+  <img src="./assets/منظومة الطحن فائق النعومة والتعويم الرغوي (شركة M.png" alt="منظومة الطحن فائق النعومة والتعويم الرغوي (شركة M" width="1200">
+</p>
+
+
+---
+
 ## 📌 1. Process Engineering & Mechanical Subsystems
 
 Based on the industrial configuration validated for **Stage 2 Integrated Milling and Froth Flotation Plant** in partnership with **Cortina SILICA**, this stage executes ultra-fine particle reduction and advanced physicochemical separation of non-magnetic heavy minerals:
