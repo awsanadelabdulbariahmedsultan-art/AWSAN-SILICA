@@ -5,6 +5,12 @@
 
 ---
 
+<p align="center">
+  <img src="./assets/1786634424932.png" alt="1786634424932" width="1200">
+</p>
+---
+
+
 ## 📌 1. Dual-Axis Production Line & Mechanical Cross-Section (Metso Outotec)
 
 Based on the panoramic industrial topology optimized for simultaneous physical comminution and chemical-physical conditioning, the complex operates via two parallel heavy engineering tracks:
@@ -42,6 +48,12 @@ Centralized multi-stage monitoring is executed via the standalone industrial **C
 
 # وثيقة المواصفات الهندسية: التوزيع البانورامي المتكامل لمحطة الطحن ومجمع خلايا التعويم
 ## مجمع أوسان لمعالجة السيليكا فائقة النقاء (AWSAN-SILICA)
+
+---
+
+<p align="center">
+  <img src="./assets/1786634424932.png" alt="1786634424932" width="1200">
+</p>
 
 ---
 
