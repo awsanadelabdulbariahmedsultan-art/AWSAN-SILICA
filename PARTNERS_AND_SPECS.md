@@ -8,6 +8,13 @@
 
 ---
 
+<p align="center">
+  <img src="./assets/رحلة الخام الجغرافية والتصنيعية.png" alt="رحلة الخام الجغرافية والتصنيعية width="1200">
+</p>
+
+
+---
+
 This document details the roles, technical workflows, machinery requirements, and execution steps for each global strategic partner involved in the **AWSAN SILICA** project, managed by **Awsan Dew For Marketing Services**.
 
 ---
@@ -22,6 +29,20 @@ This document details the roles, technical workflows, machinery requirements, an
 <p align="center">
   <img src="./assets/المرحلة الأولى لشركة Eriez محطة المعالجة الاولية.png" alt="المرحلة الأولى لشركة Eriez محطة المعالجة الاولية" width="1200">
 </p>
+
+---
+
+<p align="center">
+  <img src="./assets/منظومة الفصل والتنظيف الأولي شراكة Eriez Magnetic.png" alt="منظومة الفصل والتنظيف الأولي شراكة Eriez Magnetic" width="1200">
+</p>
+
+---
+
+<p align="center">
+  <img src="./assets/Eriez Magnetics محور الفصل المغناطيسي عالي الكثافة.png" alt="Eriez Magnetics محور الفصل المغناطيسي عالي الكثافة width="1200">
+</p>
+
+
 
 
 ---
@@ -52,6 +73,13 @@ This document details the roles, technical workflows, machinery requirements, an
   <img src="./assets/المطاحن المبطنة بالسيراميك وأحواض التعويم الرغوي.png" alt="المطاحن المبطنة بالسيراميك وأحواض التعويم الرغوي width="1200">
 </p>
 
+---
+
+
+<p align="center">
+  <img src="./assets/منظومة الطحن فائق النعومة والتعويم الرغوي (شركة M.png" alt="منظومة الطحن فائق النعومة والتعويم الرغوي (شركة M width="1200">
+</p>
+
 
 ---
 
@@ -76,10 +104,18 @@ This document details the roles, technical workflows, machinery requirements, an
 * **Location Applied:** Advanced Finishing Lines (Sana'a & Socotra Eco-Line).
 
 
+
 ---
 
 <p align="center">
   <img src="./assets/المنظومة المتكاملة الثالثة Tomra.png" alt="المنظومة المتكاملة الثالثة Tomra" width="1200">
+</p>
+
+
+---
+
+<p align="center">
+  <img src="./assets/محور الفرز البصري بالليزر للكوارتز Tomra.png" alt="محور الفرز البصري بالليزر للكوارتز Tomra" width="1200">
 </p>
 
 ---
@@ -145,6 +181,13 @@ Marketing Services.*
 
 ---
 
+<p align="center">
+  <img src="./assets/رحلة الخام الجغرافية والتصنيعية.png" alt="رحلة الخام الجغرافية والتصنيعية width="1200">
+</p>
+
+
+---
+
 يوضح هذا المستند بالتفصيل الأدوار، ومخططات العمل الفنية، ومتطلبات المعدات، وخطوات التنفيذ لكل شريك استراتيجي عالمي مشارك في مشروع **AWSAN SILICA**، تحت إدارة وإشراف **مؤسسة أوسان دو لخدمات التسويق**.
 
 ---
@@ -159,6 +202,20 @@ Marketing Services.*
 </p>
 
 ---
+
+<p align="center">
+  <img src="./assets/منظومة الفصل والتنظيف الأولي شراكة Eriez Magnetic.png" alt="منظومة الفصل والتنظيف الأولي شراكة Eriez Magnetic" width="1200">
+</p>
+
+---
+
+<p align="center">
+  <img src="./assets/Eriez Magnetics محور الفصل المغناطيسي عالي الكثافة.png" alt="Eriez Magnetics محور الفصل المغناطيسي عالي الكثافة width="1200">
+</p>
+
+
+---
+
 
 
 ### ⚙️ خطوات التشغيل ومخطط العمل:
@@ -188,6 +245,16 @@ Marketing Services.*
 
 ---
 
+
+<p align="center">
+  <img src="./assets/منظومة الطحن فائق النعومة والتعويم الرغوي (شركة M.png" alt="منظومة الطحن فائق النعومة والتعويم الرغوي (شركة M width="1200">
+</p>
+
+
+---
+
+
+
 1. يتم نقل الرمل المفرز مغناطيسياً إلى **مطاحن ميتسو العمودية المتقدمة (VTM)** لطحن الخام والوصول إلى حجم حبيبات ميكروني متجانس دون التسبب في أي تلوث حديدي (باستخدام بطانات سيراميكية).
 2. تدفق البودرة المطحونة إلى صهاريج ضخمة ومتصلة تُعرف بـ **خلايا التعويم الرغوي (Metso Flotation Cells)** حيث تُخلط بالماء ومواد رغوية متخصصة صديقة للبيئة.
 3. تلتصق الفقاعات المجهرية بشكل انتقائي بجزيئات "الفلدسبار" و"الميكا"، مما يؤدي إلى طفوها على السطح كطبقة رغوية كثيفة.
@@ -215,6 +282,14 @@ Marketing Services.*
 
 ---
 
+<p align="center">
+  <img src="./assets/محور الفرز البصري بالليزر للكوارتز Tomra.png" alt="محور الفرز البصري بالليزر للكوارتز Tomra" width="1200">
+</p>
+
+---
+
+
+
 ### ⚙️ خطوات التشغيل ومخطط العمل:
 1. تسقط حبيبات الكوارتز المجففة عمودياً وبسرعة عالية عبر مجرى تغذية يعتمد على الجاذبية.
 2. تقوم **مستشعرات ليزر تومرا وكاميرات الفحص الرقمية عالي الدقة ثنائية القناة** بمسح وفحص كل حبة رمل تسقط في الهواء خلال أجزاء من الملي ثانية.
@@ -240,6 +315,13 @@ Marketing Services.*
 
 <p align="center">
   <img src="./assets/The_Multi_Stage_Bretonstone_system_مرحلة_الإنتاج.png" alt="The_Multi_Stage_Bretonstone_system_مرحلة_الإنتاج" width="1200">
+</p>
+
+---
+
+
+<p align="center">
+  <img src="./assets/Breton S.p.A صناعة المنتج النهائي وألواح الكوارتز.png" alt="Breton S.p.A صناعة المنتج النهائي وألواح الكوارتز" width="1200">
 </p>
 
 ---
