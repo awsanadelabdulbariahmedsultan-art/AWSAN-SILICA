@@ -5,6 +5,13 @@
 
 ---
 
+
+<p align="center">
+  <img src="./assets/محور الفرز البصري بالليزر للكوارتز Tomra.png" alt="محور الفرز البصري بالليزر للكوارتز Tomra" width="1200">
+</p>
+
+---
+
 ## 📌 1. Process Engineering & Mechanical Chute Dynamics
 
 Based on the strategic optical configuration optimized for real-time gravitational particle sorting, the sorting node operates via specialized high-speed components:
@@ -44,6 +51,12 @@ Localized operational management and safety parameters are supervised via the in
 
 # وثيقة المواصفات الهندسية: مجرى الفرز بالليزر مضمن الكفاءة وأقماع فصل المنتجات الصناعية
 ## البنية التحتية المتقدمة لسلسلة القيمة لمجمع أوسان للسيليكا فائقة النقاء (AWSAN-SILICA)
+
+---
+
+<p align="center">
+  <img src="./assets/محور الفرز البصري بالليزر للكوارتز Tomra.png" alt="محور الفرز البصري بالليزر للكوارتز Tomra" width="1200">
+</p>
 
 ---
 
