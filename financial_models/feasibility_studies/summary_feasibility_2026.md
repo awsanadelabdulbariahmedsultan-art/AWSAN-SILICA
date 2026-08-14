@@ -1,49 +1,43 @@
-# 📊 Executive Financial Summary — AWSAN SILICA / الملخص التنفيذي المالي لمشروع سيليكا أوسان
-* **Proprietary Owner:** Awsan Dew For Marketing Services / مؤسسة أوسان دو لخدمات التسويق
-* **Chairman & Chief Engineer:** Eng. Awsan Adel Abdulbari Ahmed Sultan / المهندس أوسان عادل عبدالباري
-* **Security Status:** 🔒 Confidential & Secured via System (.gitignore) / سري ومحمي برمجياً
+# 📊 Executive Financial Summary — AWSAN SILICA
+* **Proprietary Developer & Owner:** Awsan Dew For Marketing Services
+* **Chairman of the Board & Chief Systems Consultant:** Eng. Awsan Adel Abdulbari Ahmed Sultan
+* **Security Status:** 🔒 Strictly Confidential - Protected via Repository Security (.gitignore)
 
 ---
 
-## 🌎 1. Project Scope & Value Chain / نطاق المشروع وسلسلة القيمة
+## 🌎 1. Project Scope & Economic Value Chain
 
-### 🇺🇸 English:
-The **AWSAN SILICA** project establishes a highly integrated industrial value chain designed to leverage Yemen's massive, untapped quartz reserves (estimated at 2 Billion $m^3$ with up to 99.4% natural purity). By deploying state-of-the-art turnkey beneficiation systems from global engineering giants (Eriez, Metso, TOMRA, Breton), the project completely eliminates low-value raw material exports and shifts output to high-margin sectors: high-purity optical glass, semiconductor-grade silicon (4N+), and luxury engineered quartz slabs. 
+The **AWSAN SILICA** project establishes a highly advanced, integrated industrial value chain engineered to tap into Yemen's immense and pristine high-purity quartz and silica sandstone deposits, which are geologically estimated at over **2 Billion cubic meters** with natural baseline purities reaching up to **99.4%**.
 
-### 🇾🇪 العربية:
-يؤسس مشروع **سيليكا أوسان** سلسلة قيمة صناعية متكاملة ومتقدمة لاستغلال احتياطيات اليمن الهائلة والبكر من خام الكوارتز (المقدرة بنحو 2 مليار متر مكعب ونقاء طبيعي يصل إلى 99.4%). من خلال دمج منظومات التكرير الجاهزة لشركات التعدين العالمية (Eriez, Metso, TOMRA, Breton)، يلغي المشروع كلياً تصدير المواد الخام الرخيصة ويحول الإنتاج إلى منتجات عالية الربحية: الزجاج البصري عالي الشفافية، السيليكون عالي النقاء لأشباه الموصلات (4N+)، وألواح الكوارتز الهندسي الفاخرة لمؤسسة **أوسان دو**.
+By deploying state-of-the-art turnkey beneficiation and refining systems from the world's leading heavy mining and industrial engineering giants (Eriez, Metso, TOMRA, and Breton), the project completely eliminates low-value raw material leakage and commoditized raw sand exports. Instead, it shifts the entire structural manufacturing output to high-margin global sectors, encompassing: ultra-clear high-transparency solar glass, semiconductor-grade silicon wafers (4N+ and 5N grade) for advanced computing and AI chips, and premium polished engineered quartz slabs that directly support the global distribution networks of **Awsan Dew For Marketing Services**.
 
 ---
 
-## 📊 2. Core Financial Indicators / المؤشرات المالية الحسابية الرئيسية
+## 📊 2. Core Financial Indicators & Projections
 
-Based on an initial targeted processing capacity of **500,000 Tons per Year**, the mechanical and economic financial models yields the following metric summaries:
+Based on an initial targeted processing, refining, and manufacturing throughput of **500,000 Tons per Year**, the dynamic financial spreadsheets and metallurgical assumptions yield the following metric summaries:
 
-بناءً على طاقة إنتاجية وتكريرية مستهدفة تبلغ **500,000 طن سنوياً**، تلخص الحسابات والمؤشرات الاقتصادية الدقيقة كالتالي:
-
-| Financial Metric / المؤشر المالي | Value in USD / القيمة بالدولار الأمريكي | Description / التوصيف الاقتصادي |
+| Financial Metric Index | Value in USD ($) | Strategic Commercial Evaluation |
 | :--- | :--- | :--- |
-| **Total CAPEX / إجمالي الرأسمالي** | **$125,000,000** | Machinery acquisition, installation, and microgrid infrastructure / تكاليف تأسيس المصانع والألواح الشمسية |
-| **Annual OPEX / إجمالي التشغيلي السنوي** | **$45,000,000** | Logistics, labor payroll, eco-reagents, and raw mining overheads / مصاريف التشغيل السنوية والشحن والأجور والأحماض |
-| **Gross Annual Revenue / الإيرادات السنوية** | **$521,750,000** | Derived from processed value-added tier sales / العوائد السنوية الإجمالية من مبيعات المنتجات المكررة والنهائية |
-| **Net Annual Profit / صافي الأرباح السنوية** | **$476,750,000** | Direct net yield for Awsan Dew For Marketing Services / صافي الأرباح المباشرة لمؤسسة أوسان دو |
-| **Return on Investment (ROI) / العائد الاستثماري** | **381.40%** | Annualized capital efficiency percentage / نسبة العائد السنوي الصافي على الاستثمار الرأسمالي |
-| **Payback Period / فترة استرداد رأس المال** | **0.26 Years (3.1 Months)** | Velocity of capital recovery from active production / سرعة استرداد رأس المال التأسيسي من بدء التشغيل الفعلي |
+| **Total Capital Expenditure (CAPEX)** | **$125,000,000** | Includes industrial machinery acquisition from the 4 global partners, freight delivery, civil engineering setup, and smart solar microgrid installation. |
+| **Annual Operational Expenditure (OPEX)** | **$45,000,000** | Encompasses global and domestic payroll, eco-friendly frothing reagents, chemical gas purification vapors, multi-site inland freight, and maritime logistics. |
+| **Gross Annual Revenue** | **$521,750,000** | Total gross returns generated from processed material sales cross-channeled over the four sequential value-added premium tiers. |
+| **Net Annual Operational Profit** | **$476,750,000** | Direct net cash flows channeling into the treasury of Awsan Dew For Marketing Services after subtracting all overhead operational costs. |
+| **Return on Investment (ROI)** | **381.40%** | Annualized percentage showcasing the capital deployment efficiency and exceptional profitability index of the project. |
+| **Capital Payback Period** | **0.26 Years (3.1 Months)** | The required velocity of capital recovery to fully reimburse the initial CAPEX investment from the exact date of plant commissioning. |
 
 ---
 
-## 🔒 3. Intellectual Property Legal Protection / حماية الملكية الفكرية والقانونية
+## 🔒 3. Intellectual Property Protection & Legal Assurances
 
-### 🇺🇸 English:
-This financial summary and feasibility outline represent the exclusive commercial and industrial asset of Eng. Awsan Adel and his corporate entity. Any unauthorized presentation, duplicating, or citation of these projections without prior written board consent is strictly prohibited by international laws.
+This executive financial summary and its associated feasibility projections represent the exclusive industrial, commercial, and proprietary asset of **Eng. Awsan Adel Abdulbari Ahmed Sultan** and **Awsan Dew For Marketing Services** (Republic of Yemen). 
 
-### 🇾🇪 العربية:
-يعتبر هذا الملخص المالي والجدوى الاستثمارية ملكاً فكرياً وصناعياً حصریاً للمهندس أوسان عادل ومؤسسة أوسان دو لخدمات التسويق. ويُمنع منعاً باتاً تداول أو استخدام أو اقتباس هذه الأرقام دون موافقة خطية مسبقة من مجلس الإدارة المصرح له.
+Under local investment protection statutes and international intellectual property treaties, it is strictly prohibited to copy, distribute, present, quote, or utilize any metrics, numbers, or structural workflows hosted within this document to external third parties without obtaining prior, written, and legally notarized authorization from the Chairman of the Board.
 
-`System Authentication ID: Powered by Eng. Awsan Adel Abdulbari Ahmed Sultan`
-
+`System Authentication ID & Ownership Tag: Powered by Eng. Awsan Adel Abdulbari Ahmed Sultan`
 
 ---
+
 # 📊 الملخص التنفيذي المالي الشامل — سيليكا أوسان (AWSAN SILICA)
 * **الجهة المطورة والمالكة:** مؤسسة أوسان دو لخدمات التسويق (Awsan Dew For Marketing Services)
 * **رئيس مجلس الإدارة والمستشار الهندسي الأول:** المهندس أوسان عادل عبد الباري أحمد سلطان
@@ -80,4 +74,5 @@ This financial summary and feasibility outline represent the exclusive commercia
 
 ويُمنع منعاً باتاً بموجب القوانين المحلية واتفاقيات حماية الملكية الفكرية الدولية تداول أو نسخ أو عرض أو اقتباس هذه الأرقام والبيانات للجهات الخارجية دون الحصول على تفويض خطي وموثق مسبقاً من رئيس مجلس الإدارة.
 
-`معرّف التوثيق وحماية النظام: Powered by Eng. Awsan Adel Abdulbari Ahmed Sultan`
+`معرّف التوثيق وحماية النظام: Powered by Eng. Awsan Adel Abdulbari 
+Ahmed Sultan`
