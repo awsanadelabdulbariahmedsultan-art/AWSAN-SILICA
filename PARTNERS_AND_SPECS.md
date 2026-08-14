@@ -142,11 +142,20 @@ This document details the roles, technical workflows, machinery requirements, an
 ---
 
 
+
 <p align="center">
   <img src="./assets/The_Multi_Stage_Bretonstone_system_مرحلة_الإنتاج.png" alt="The_Multi_Stage_Bretonstone_system_مرحلة_الإنتاج" width="1200">
 </p>
 
 ---
+
+
+<p align="center">
+  <img src="./assets/Breton S.p.A صناعة المنتج النهائي وألواح الكوارتز.png" alt="Breton S.p.A صناعة المنتج النهائي وألواح الكوارتز" width="1200">
+</p>
+
+---
+
 
 
 ### ⚙️ Operational Steps & Workflow:
