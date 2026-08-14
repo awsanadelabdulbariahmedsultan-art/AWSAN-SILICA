@@ -216,3 +216,190 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+
+
+
+
+
+
+# ====================================================================
+# 🌍 AWSAN SILICA PROJECT - CUSTOM PROPERTY PROTECTION .GITIGNORE
+# Owned by: Awsan Dew For Marketing Services (Yemen)
+# Author: Eng. Awsan Adel Abdulbari Ahmed Sultan
+# ====================================================================
+
+# 🔒 [CRITICAL] AWSAN DEW PROPRIETARY ASSETS PROTECTION
+# The following rules prevent the accidental uploading of highly sensitive 
+# investment, geological, and financial documents to the repository.
+
+# Ignore Financial Models & CAPEX/OPEX Spreadsheet Files
+*.xlsx
+*.xls
+*.csv
+*.tsv
+financial_models/
+
+# Ignore Engineering Specs, Blueprints & Industrial CAD/PDF Files
+*.pdf
+*.dwg
+*.dxf
+*.cad
+engineering_specs/
+
+# Ignore Geological Shapefiles, Coordinates & GIS Data
+*.shp
+*.shx
+*.dbf
+*.prj
+*.kml
+*.kmz
+*.geojson
+geological_data/
+
+# ====================================================================
+# 🖥️ IDE & EDITOR SPECIFIC FILES (JetBrains, VS Code, etc.)
+# ====================================================================
+# PyCharm & IntelliJ files
+.idea/
+.idea/**/
+workspace.xml
+tasks.xml
+usage.statistics.xml
+dictionaries
+shelf
+aws.xml
+
+# Visual Studio Code settings and caches
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+tempCodeRunnerFile.py
+
+# ====================================================================
+# 🐍 STANDARD PYTHON PYTHON CORE PACKAGING & ENVIRONMENT IGNORES
+# ====================================================================
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller logs and specifications
+*.manifest
+*.spec
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py.cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Django, Flask, & Web stuff
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+instance/
+.webassets-cache
+.scrapy
+
+# Sphinx & Documentation builders
+docs/_build/
+.pybuilder/
+target/
+
+# Jupyter & IPython configurations
+.ipynb_checkpoints
+profile_default/
+ipython_config.py
+
+# Package manager locks (Kept commented as default for reproducible environments)
+# poetry.lock
+# pdm.lock
+# uv.lock
+# Pipfile.lock
+.pdm-python
+.pdm-build/
+.pixi
+__pypackages__/
+
+# Systems & Database Caches
+celerybeat-schedule
+celerybeat.pid
+*.rdb
+*.aof
+*.pid
+mnesia/
+rabbitmq/
+rabbitmq-data/
+activemq-data/
+
+# Environments & Private API Credentials
+.env
+.envrc
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Project tools & formatters
+.spyderproject
+.spyproject
+.ropeproject
+/site
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+cython_debug/
+.abstra/
+.ruff_cache/
+.pypirc
+
+# Modern frameworks
+marimo/_static/
+marimo/_lsp/
+__marimo__/
+.streamlit/secrets.toml
+
