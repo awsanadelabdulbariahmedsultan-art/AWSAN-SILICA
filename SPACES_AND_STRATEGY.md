@@ -136,7 +136,7 @@ This document outlines the geographical and industrial space allocations, inner 
 ---
 
 <p align="center">
-  <img src="./assets/لقطة جوية بانورامية.png" alt="لقطة جوية بانورامية" width="1200">
+  <img src="./assets/إنفوجرافيك -منشآت مجمع اوسان سيليكا AWSAN SILICA .png" alt="إنفوجرافيك -منشآت مجمع اوسان سيليكا AWSAN SILICA " width="1200">
 </p>
 
 ---
@@ -146,11 +146,13 @@ This document outlines the geographical and industrial space allocations, inner 
 *   **Future Roadmap:** Integrating industrial-scale Vacuum Chlorination Roasting chambers operating at extreme temperatures in a pure chlorine gas atmosphere to remove trace atomic metals, elevating quartz purity to **Semiconductor and Microchip grade (4N+ / 5N - exceeding 99.99%)**, alongside localized high-tech quartz crucible manufacturing lines.
 
 #### 🏢 Plant 4: Premium Engineered Quartz Slab Manufacturing (Breton S.p.A Partnership)
+
 ---
 
 <p align="center">
-  <img src="./assets/لقطة جوية بانورامية.png" alt="لقطة جوية بانورامية" width="1200">
+  <img src="./assets/الإنفوجرافيك لمشروع-سيليكا أوسان-(النموذج العام).png" alt="الإنفوجرافيك لمشروع-سيليكا أوسان-(النموذج العام)" width="1200">
 </p>
+
 
 ---
 
@@ -299,11 +301,9 @@ This document outlines the geographical and industrial space allocations, inner 
 
 #### 🏢 مصنع 3: الفرز البصري بالليزر والتنقية الفائقة (شراكة TOMRA Mining)
 ---
-
 <p align="center">
-  <img src="./assets/لقطة جوية بانورامية.png" alt="لقطة جوية بانورامية" width="1200">
+  <img src="./assets/إنفوجرافيك -منشآت مجمع اوسان سيليكا AWSAN SILICA .png" alt="إنفوجرافيك -منشآت مجمع اوسان سيليكا AWSAN SILICA " width="1200">
 </p>
-
 
 ---
 
@@ -315,7 +315,7 @@ This document outlines the geographical and industrial space allocations, inner 
 ---
 
 <p align="center">
-  <img src="./assets/لقطة جوية بانورامية.png" alt="لقطة جوية بانورامية" width="1200">
+  <img src="./assets/الإنفوجرافيك لمشروع-سيليكا أوسان-(النموذج العام).png" alt="الإنفوجرافيك لمشروع-سيليكا أوسان-(النموذج العام)" width="1200">
 </p>
 
 
