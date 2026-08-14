@@ -3,6 +3,16 @@
 # Engineering Specifications Document: Metso Outotec VTM & Industrial Flotation Cell Matrix
 ## AWSAN Ultra-High Purity Silica Processing Hyper-Complex (AWSAN-SILICA)
 
+
+---
+
+
+
+<p align="center">
+  <img src="./assets/محور الطحن والتعويم الرغوي الكيميائي شركة Metso.png" alt="محور الطحن والتعويم الرغوي الكيميائي شركة Metso" width="1200">
+</
+  p>
+
 ---
 
 ## 📌 1. Heavy Mechanical & Plant Layout Integration (Metso Outotec Partnership)
@@ -42,6 +52,12 @@ Based on the strategic multi-cell industrial topology optimized for high-volume 
 # وثيقة المواصفات الهندسية: مصفوفة خلايا التعويم الصناعية وطواحين Metso Outotec VTM العملاقة
 ## مجمع أوسان لمعالجة السيليكا فائقة النقاء (AWSAN-SILICA)
 
+---
+
+
+<p align="center">
+  <img src="./assets/محور الطحن والتعويم الرغوي الكيميائي شركة Metso.png" alt="محور الطحن والتعويم الرغوي الكيميائي شركة Metso" width="1200">
+</p>
 ---
 
 ## 📌 1. التكامل الميكانيكي الثقيل والتوزيع الهيكلي للمصنع (شراكة ميتسو أوتوتيك)
