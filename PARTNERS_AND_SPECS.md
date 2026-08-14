@@ -39,12 +39,6 @@ This document details the roles, technical workflows, machinery requirements, an
 ---
 
 <p align="center">
-  <img src="./assets/منظومة الفصل والتنظيف الأولي شراكة Eriez Magnetic.png" alt="منظومة الفصل والتنظيف الأولي شراكة Eriez Magnetic" width="1200">
-</p>
-
----
-
-<p align="center">
   <img src="./assets/Eriez Magnetics محور الفصل المغناطيسي عالي الكثافة.png" alt="Eriez Magnetics محور الفصل المغناطيسي عالي الكثافة width="1200">
 </p>
 
@@ -223,11 +217,6 @@ Marketing Services.*
   <img src="./assets/المرحلة الأولى لشركة Eriez محطة المعالجة الاولية.png" alt="المرحلة الأولى لشركة Eriez محطة المعالجة الاولية" width="1200">
 </p>
 
----
-
-<p align="center">
-  <img src="./assets/منظومة الفصل والتنظيف الأولي شراكة Eriez Magnetic.png" alt="منظومة الفصل والتنظيف الأولي شراكة Eriez Magnetic" width="1200">
-</p>
 
 ---
 
