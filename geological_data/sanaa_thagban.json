@@ -1,0 +1,36 @@
+{
+  "project_name": "AWSAN-SILICA-PROJECT",
+  "location_id": "SANAA-THAGBAN-01",
+  "geographic_coordinates": {
+    "latitude": "15.3500",
+    "longitude": "44.2000",
+    "region": "Thagban, Sana'a, Yemen"
+  },
+  "geological_formation": {
+    "deposit_type": "High-Purity Quartz Veins (Vein Silica)",
+    "estimated_reserves_tons": 18500000,
+    "accessibility_status": "Highly Accessible / Surface Mining Outcrop"
+  },
+  "chemical_composition_after_processing": {
+    "SiO2_purity_percentage": 99.992,
+    "impurities_ppm": {
+      "Fe2O3_iron_oxide": 8.5,
+      "Al2O3_aluminum_oxide": 35.0,
+      "TiO2_titanium_dioxide": 2.1,
+      "CaO_calcium_oxide": 12.0,
+      "MgO_magnesium_oxide": 4.5
+    }
+  },
+  "physical_properties": {
+    "grain_size_distribution_mm": "0.125 - 0.600",
+    "moisture_content_percentage": 0.05,
+    "hardness_mohs_scale": 7.0,
+    "color_index": "Super White / High Transmittance"
+  },
+  "industrial_classification": {
+    "target_industry": "Solar-Grade Glass & High-Bandwidth Fiber Optics",
+    "benchmark_standard": "Sibelco HPQ Grade-A Specification Equivalent",
+    "recommended_refining_method": "Optical Sorting + High-Intensity Magnetic Separation"
+  },
+  "intellectual_property": "Powered By eng AWSAN ADEL ABDULBARI AHMED SULTAN"
+}
