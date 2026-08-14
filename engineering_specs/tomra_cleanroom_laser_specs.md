@@ -5,6 +5,14 @@
 
 ---
 
+
+
+<p align="center">
+  <img src="./assets/المنظومة المتكاملة الثالثة Tomra.png" alt="المنظومة المتكاملة الثالثة Tomra" width="1200">
+</p>
+
+---
+
 ## 📌 1. Cleanroom Laboratory Process Engineering & Automated Feeding
 
 Based on the highly controlled cleanroom environment optimized for the final stages of ultra-pure crystalline silicon refining, the infrastructure operates via synchronized micro-logistics systems:
@@ -42,6 +50,13 @@ Line monitoring and real-time product validation are governed by the primary ove
 
 # وثيقة المواصفات الهندسية: مختبر الفرز بالليزر في الغرف النظيفة ومقاييس النقاوة الذرية اللحظية
 ## البنية التحتية المتقدمة لسلسلة القيمة لمجمع أوسان للسيليكا فائقة النقاء (AWSAN-SILICA)
+
+---
+
+
+<p align="center">
+  <img src="./assets/المنظومة المتكاملة الثالثة Tomra.png" alt="المنظومة المتكاملة الثالثة Tomra" width="1200">
+</p>
 
 ---
 
