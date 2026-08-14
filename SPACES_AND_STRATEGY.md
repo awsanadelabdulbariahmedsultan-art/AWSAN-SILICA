@@ -121,16 +121,39 @@ This document outlines the geographical and industrial space allocations, inner 
 </p>
 
 ---
+
+<p align="center">
+  <img src="./assets/1786634424932.png" alt="1786634424932" width="1200">
+</p>
+
+---
+
 *   **Space Allocation:** **60,000 Square Meters**.
 *   **Current Roadmap:** Commissioning Metso Vertical Grinding Mills (VTM) with non-contaminating ceramic/quartz liners to mill sand to exact micron sizes. Constructing automated chemical froth flotation banks to float away feldspar and mica, backed by a closed-loop water treatment system that recycles 90% of industrial water.
 *   **Future Roadmap:** Upgrading the chemical dosing loops into a fully AI-driven neural network system where real-time purity sensors automatically adjust frothing agent volume based on mineral fluctuations, guaranteeing 100% quality uniformity.
 
 #### 🏢 Plant 3: Laser Optical Sorting & Ultra-Purification (TOMRA Mining Partnership)
+---
+
+<p align="center">
+  <img src="./assets/لقطة جوية بانورامية.png" alt="لقطة جوية بانورامية" width="1200">
+</p>
+
+---
+
 *   **Space Allocation:** **35,000 Square Meters** (Thermally insulated, high-grade cleanroom environment).
 *   **Current Roadmap:** Erecting TOMRA PRO Secondary Sorter units to scan falling quartz grains mid-air and reject discolored particles using fast pneumatic compressed air valves, ensuring 99.5% purity for solar panel glass production, integrated with Hot Acid Leaching tanks.
 *   **Future Roadmap:** Integrating industrial-scale Vacuum Chlorination Roasting chambers operating at extreme temperatures in a pure chlorine gas atmosphere to remove trace atomic metals, elevating quartz purity to **Semiconductor and Microchip grade (4N+ / 5N - exceeding 99.99%)**, alongside localized high-tech quartz crucible manufacturing lines.
 
 #### 🏢 Plant 4: Premium Engineered Quartz Slab Manufacturing (Breton S.p.A Partnership)
+---
+
+<p align="center">
+  <img src="./assets/لقطة جوية بانورامية.png" alt="لقطة جوية بانورامية" width="1200">
+</p>
+
+---
+
 *   **Space Allocation:** **80,000 Square Meters** (The largest industrial footprint within the mega-complex).
 *   **Current Roadmap:** Installing a fully automated BretonStone® system to blend ultra-pure quartz powder with organic resins under a vacuum-vibro-compression press, curing and polishing the slabs via diamond-headed robotic lines to produce luxury architectural slabs, multiplying raw material value from $20/ton to thousands of dollars/ton.
 *   **Future Roadmap:** Deploying additional specialized robotic lines for smart anti-bacterial surfaces engineered for cleanrooms, high-tech labs, and surgical rooms, expanding the global distribution network of **Awsan Dew For Marketing Services**.
@@ -264,16 +287,40 @@ This document outlines the geographical and industrial space allocations, inner 
 </p>
 
 ---
+
+<p align="center">
+  <img src="./assets/1786634424932.png" alt="1786634424932" width="1200">
+</p>
+
+---
 *   **المساحة المخصصة:** **60,000 متر مربع**.
 *   **الخطة الحالية:** تشغيل مطاحن ميتسو العمودية (VTM) المبطنة بالسيراميك لمنع التلوث الحديدي، وبناء مصفوفة صهاريج التعويم الرغوي لعزل شوائب الفلدسبار والميكا، وتأسيس محطة تدوير مياه مغلقة لإعادة استخدام 90% من المياه.
 *   **الخطة المستقبلية:** تطوير نظام الحقن الكيميائي ليعمل بالذكاء الاصطناعي بالكامل، بحيث تقرأ مستشعرات المصنع نسبة الشوائب وتضبط كميات المواد الرغوية آلياً لضمان جودة إنتاج ثابتة 100%.
 
 #### 🏢 مصنع 3: الفرز البصري بالليزر والتنقية الفائقة (شراكة TOMRA Mining)
+---
+
+<p align="center">
+  <img src="./assets/لقطة جوية بانورامية.png" alt="لقطة جوية بانورامية" width="1200">
+</p>
+
+
+---
+
 *   **المساحة المخصصة:** **35,000 متر مربع** (منطقة معزولة حرارياً ومطهرة تماماً).
 *   **الخطة الحالية:** تركيب أجهزة الفرز البصري (TOMRA PRO Secondary Sorter) لفحص الحبيبات في الهواء وطرد الشوائب بالهواء المضغوط لضمان نقاء زجاج الألواح الشمسية (99.5%)، مع تفعيل أفران الغسيل بالأحماض (Acid Leaching).
 *   **الخطة المستقبلية:** إدخال تكنولوجيا التطهير والتحميص بغاز الكلور (Chlorination Roasting) في غرف مفرغة من الهواء للوصول بنقاء الكوارتز إلى درجة الرقائق الإلكترونية وأشباه الموصلات الفائقة (درجة 4N+ و5N أي تتجاوز 99.99%)، وتوطين صناعة البواتق الكوارتزية.
 
 #### 🏢 مصنع 4: إنتاج ألواح الكوارتز الهندسيّة الفاخرة (شراكة Breton S.p.A)
+---
+
+<p align="center">
+  <img src="./assets/لقطة جوية بانورامية.png" alt="لقطة جوية بانورامية" width="1200">
+</p>
+
+
+---
+
 *   **المساحة المخصصة:** **80,000 متر مربع** (المنشأة الأكبر مساحة في المجمع).
 *   **الخطة الحالية:** تركيب خط إنتاج آلي بالكامل بتكنولوجيا BretonStone الإيطالية المحتكرة لتحويل بودرة الكوارتز المكررة إلى ألواح هندسية فاخرة ومصقولة بمقاسات عالمية، وتصديرها للفنادق والمستشفيات لمضاعفة سعر الطن من 20 دولاراً إلى آلاف الدولارات.
 *   **الخطة المستقبلية:** التوسع في تشغيل خطوط آلية إضافية مخصصة للأسطح الذكية المضادة للبكتيريا (Smart Anti-bacterial Surfaces) للمختبرات الدقيقة وغرف العمليات الطبية، وتوسيع شبكة التوزيع العالمي لمؤسسة **أوسان دو**.
