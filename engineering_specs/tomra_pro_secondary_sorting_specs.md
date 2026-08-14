@@ -5,6 +5,13 @@
 
 ---
 
+
+<p align="center">
+  <img src="./assets/المنشأة من الداخل الفرز البصري بالليزر 35,000m2.png" alt="المنشأة من الداخل الفرز البصري بالليزر 35,000m2" width="1200">
+</p>
+
+---
+
 ## 📌 1. Process Engineering & Micro-Logistics Feeding Infrastructure
 
 Based on the highly continuous cleanroom layout configured for multi-stage secondary purification, the cluster operates via two parallel, synchronized high-efficiency tracks:
@@ -43,6 +50,13 @@ Process validation, inline quality control, and system state metrics are continu
 
 # وثيقة المواصفات الهندسية: مجمع الفرز الطيفي الثانوي المتقدم بطواقم TOMRA PRO الذكية
 ## البنية التحتية المتقدمة لسلسلة القيمة لمجمع أوسان للسيليكا فائقة النقاء (AWSAN-SILICA)
+
+---
+
+
+<p align="center">
+  <img src="./assets/المنشأة من الداخل الفرز البصري بالليزر 35,000m2.png" alt="المنشأة من الداخل الفرز البصري بالليزر 35,000m2" width="1200">
+</p>
 
 ---
 
