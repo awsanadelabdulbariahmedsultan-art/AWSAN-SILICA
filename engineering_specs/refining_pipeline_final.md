@@ -5,6 +5,16 @@
 
 ---
 
+
+
+<p align="center">
+  <img src="./assets/منظومة الفصل والتنظيف الأولي شراكة Eriez Magnetic.png" alt="منظومة الفصل والتنظيف الأولي شراكة Eriez Magnetic" width="1200">
+</p>
+
+
+
+---
+
 ## 📌 1. Structural Engineering & Physical Components of the Processing Line
 
 Based on the initial digital engineering layouts and automated plant simulations, the primary refining pipeline consists of four sequentially synchronized, automated physical stages:
@@ -61,6 +71,15 @@ All engineering schematics, structural machinery layouts, crusher distribution v
 
 # Engineering Specifications Document: Production Lines & Automated Separation/Refining (v2.0)
 ## AWSAN Ultra-High Purity Silica Processing Hyper-Complex (AWSAN-SILICA)
+
+---
+
+
+
+<p align="center">
+  <img src="./assets/المرحلة الأولى لشركة Eriez محطة المعالجة الاولية.png" alt="المرحلة الأولى لشركة Eriez محطة المعالجة الاولية" width="1200">
+</p>
+
 
 ---
 
@@ -131,6 +150,14 @@ All engineering schematics, structural machinery layouts, crusher distribution v
 
 # Engineering Specifications Document: Production Lines & Automated Separation/Refining (v3.0 - Comprehensive Technical Blueprint Edition)
 ## AWSAN Ultra-High Purity Silica Processing Hyper-Complex (AWSAN-SILICA)
+
+---
+
+
+
+<p align="center">
+  <img src="./assets/Eriez Magnetics محور الفصل المغناطيسي عالي الكثافة.png" alt="Eriez Magnetics محور الفصل المغناطيسي عالي الكثافة" width="1200">
+</p>
 
 ---
 
