@@ -4,6 +4,13 @@ This document outlines the geographical and industrial space allocations, inner 
 
 ---
 
+<p align="center">
+  <img src="./assets/لقطة جوية بانورامية.png" alt="لقطة جوية بانورامية" width="1200">
+</p>
+
+
+---
+
 ## 🗺️ 1. Geographical Space Allocation & Open-Pit Mining Sites
 
 ### 📍 A. Thagban, Tawzan, & Al-Arisha (Sana'a Governorate)
@@ -77,6 +84,13 @@ This document outlines the geographical and industrial space allocations, inner 
 # 📊 سيليكا أوسان: وثيقة المساحات الاستراتيجية والخطط التشغيلية المخصصة (AWSAN SILICA)
 
 تحدد هذه الوثيقة بوضوح المساحات الجغرافية والصناعية المخصصة لكل منطقة استكشافية وتعدينية، بالإضافة إلى تقسيماتها الداخلية وهيكلة الخطط التشغيلية (الحالية والمستقبلية) لتعظيم عوائد **مؤسسة أوسان دو لخدمات التسويق** تحت إشراف **المهندس أوسان عادل عبد الباري أحمد سلطان**.
+
+---
+
+<p align="center">
+  <img src="./assets/لقطة جوية بانورامية.png" alt="لقطة جوية بانورامية" width="1200">
+</p>
+
 
 ---
 
