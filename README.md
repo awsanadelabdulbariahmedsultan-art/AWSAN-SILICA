@@ -89,8 +89,29 @@ AWSAN-SILICA/
 ├── 📂 engineering_specs/        # Blueprints for flotation tanks & eco-friendly separators
 │   └── refining_pipeline_v1.pdf
 │
-├── 📂 financial_models/         # CAPEX/OPEX sheets and ROI calculators for Awsan Dew
-│   └── feasibility_study_2026.xlsx
+└── 📂 financial_models/                   # 🔒 CRITICAL: Main Proprietary Financial & Investment Hub (Protected by .gitignore)
+    │
+    ├── 📂 corporate_letters/             # ✉️ Official Letters of Intent (LOIs) to Global Partners
+    │   ├── LOI_Dorfner_Anzaplan.txt       # Sample processing & chemical purification evaluation (Germany)
+    │   ├── LOI_TOMRA_Mining.txt           # Mid-air sensor-based laser sorting infrastructure (Germany/Norway)
+    │   ├── LOI_Breton_Spa.txt             # Patented BretonStone® luxury quartz slab compaction line (Italy)
+    │   ├── LOI_Metso_Outotec.txt          # Ceramic-lined vertical milling & froth flotation cells (Finland)
+    │   ├── LOI_Eriez_Magnetics.txt        # High-intensity rare earth electromagnetic drum matrices (USA)
+    │   └── LOI_SRK_Consulting.txt         # Bankable Feasibility Study (BFS) & JORC resource certification (UK)
+    │
+    ├── 📂 feasibility_studies/           # 📊 Bankable Feasibility Studies & Valuation Projections
+    │   ├── summary_feasibility_2026.md    # Executive financial summary and project scope (Bilingual)
+    │   └── financial_assumptions.json     # Dynamic system configurations (Exchange rates, inflation indices, discount rates)
+    │
+    ├── 📂 capex_opex_sheets/              # 📈 Spreadsheet Modeling & Cost Analysis (Excel/CSV Formats)
+    │   ├── capex_machinery_cost.xlsx      # Machinery acquisition, installation, and civil engineering budgeting
+    │   ├── opex_operational_cost.xlsx     # Operational overhead (Salaries, eco-reagents, solar power utilities, freight)
+    │   └── revenue_projection_model.xlsx  # ROI forecasting models based on the structural value-added multiplier
+    │
+    └── 📂 investor_pitch/                 # 💼 Venture Capitalist & Sovereign Wealth Fund Pitch Decks
+        ├── prospectus_awsan_silica.pdf    # Official preliminary private placement memorandum & investor prospectus
+        └── investment_phases_timeline.md  # Multi-tier equity sharing structures and funding horizon checkpoints
+
 │
 ├── LICENSE                      # Proprietary Ownership and Rights Reserved File
 └── README.md                    # Main Project Overview (This file)
