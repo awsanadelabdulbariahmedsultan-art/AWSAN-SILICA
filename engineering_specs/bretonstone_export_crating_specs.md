@@ -5,6 +5,13 @@
 
 ---
 
+
+<p align="center">
+  <img src="./assets/Breton S.p.A صناعة المنتج النهائي وألواح الكوارتز.png" alt="Breton S.p.A صناعة المنتج النهائي وألواح الكوارتز" width="1200">
+</p>
+
+---
+
 ## 📌 1. Quality Assurance (QA) & Human-Machine Inspection Framework
 
 Based on the final staging of the **Breton S.p.A. Automated Production Line**, the dispatch bay executes strict physical quality evaluations and structural reinforcement before international shipping:
@@ -41,6 +48,12 @@ Based on the final staging of the **Breton S.p.A. Automated Production Line**, t
 
 # وثيقة المواصفات الهندسية: فحص تأكيد الجودة، التعبئة الخشبية الشاقة للتصدير، وعنبر الشحن اللوجستي العالمي
 ## البنية التحتية المتقدمة لسلسلة القيمة لمجمع أوسان للسيليكا فائقة النقاء (AWSAN-SILICA)
+
+---
+
+<p align="center">
+  <img src="./assets/Breton S.p.A صناعة المنتج النهائي وألواح الكوارتز.png" alt="Breton S.p.A صناعة المنتج النهائي وألواح الكوارتز" width="1200">
+</p>
 
 ---
 
