@@ -1,0 +1,36 @@
+{
+  "project_name": "AWSAN-SILICA-PROJECT",
+  "location_id": "MAHWIT-TAWILAH-02",
+  "geographic_coordinates": {
+    "latitude": "15.4833",
+    "longitude": "43.7333",
+    "region": "Al-Tawilah, Mahwit, Yemen"
+  },
+  "geological_formation": {
+    "deposit_type": "Tawilah Group Sandstone (Orthoquartzite)",
+    "estimated_reserves_tons": 45000000,
+    "accessibility_status": "Open-Pit Quarry / Continuous Strata"
+  },
+  "chemical_composition_after_processing": {
+    "SiO2_purity_percentage": 99.998,
+    "impurities_ppm": {
+      "Fe2O3_iron_oxide": 2.2,
+      "Al2O3_aluminum_oxide": 11.5,
+      "TiO2_titanium_dioxide": 0.8,
+      "Cr2O3_chromium_oxide": 0.1,
+      "K2O_potassium_oxide": 1.4
+    }
+  },
+  "physical_properties": {
+    "grain_size_distribution_mm": "0.100 - 0.400",
+    "moisture_content_percentage": 0.02,
+    "sphericity_index": 0.88,
+    "roundness_index": 0.85
+  },
+  "industrial_classification": {
+    "target_industry": "Semiconductor Wafers & Microelectronic Chips",
+    "benchmark_standard": "U.S. Silica Ultra-Purity Electronic Grade-100",
+    "recommended_refining_method": "Acid Leaching + Zero-Liquid Discharge (ZLD) Washing"
+  },
+  "intellectual_property": "Powered By eng AWSAN ADEL ABDULBARI AHMED SULTAN"
+}
