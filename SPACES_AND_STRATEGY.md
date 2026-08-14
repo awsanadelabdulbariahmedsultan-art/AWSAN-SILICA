@@ -99,11 +99,28 @@ This document outlines the geographical and industrial space allocations, inner 
 *   **Engineering Plant Layout & Industrial Infrastructure Matrix:**
 
 #### 🏢 Plant 1: High-Intensity Magnetic Separation (Eriez Magnetics Partnership)
+
+---
+
+<p align="center">
+  <img src="./assets/منظومة الفصل والتنظيف الأولي شراكة Eriez Magnetic.png" alt="منظومة الفصل والتنظيف الأولي شراكة Eriez Magnetic" width="1200">
+</p>
+
+---
+
 *   **Space Allocation:** **40,000 Square Meters**.
 *   **Current Roadmap:** Installation of two parallel High-Intensity Rare Earth Electromagnetic Drum separator lines (HGMS) with a processing throughput of 100 Tons per hour, reducing iron oxide impurities to below 0.01%.
 *   **Future Roadmap:** Expanding the plant with automated Wet Super-HGMS matrices capable of capturing microscopic, micronized magnetic oxides that bypass dry drums, pushing sand base purity to 99.8%.
 
 #### 🏢 Plant 2: Ultra-Fine Grinding & Froth Flotation (Metso Outotec Partnership)
+
+---
+
+<p align="center">
+  <img src="./assets/محور الطحن والتعويم الرغوي الكيميائي شركة Metso.png" alt="محور الطحن والتعويم الرغوي الكيميائي شركة Metso" width="1200">
+</p>
+
+---
 *   **Space Allocation:** **60,000 Square Meters**.
 *   **Current Roadmap:** Commissioning Metso Vertical Grinding Mills (VTM) with non-contaminating ceramic/quartz liners to mill sand to exact micron sizes. Constructing automated chemical froth flotation banks to float away feldspar and mica, backed by a closed-loop water treatment system that recycles 90% of industrial water.
 *   **Future Roadmap:** Upgrading the chemical dosing loops into a fully AI-driven neural network system where real-time purity sensors automatically adjust frothing agent volume based on mineral fluctuations, guaranteeing 100% quality uniformity.
@@ -239,6 +256,14 @@ This document outlines the geographical and industrial space allocations, inner 
 *   **الخطة المستقبلية:** التوسع بإضافة خطوط معالجة رطبة فائقة الكثافة (Super-HGMS) قادرة على عزل الأكاسيد الميكرونية الدقيقة جداً للوصول بنقاء الرمل إلى 99.8%.
 
 #### 🏢 مصنع 2: الطحن فائق النعومة والتعويم الرغوي (شراكة Metso Outotec)
+
+---
+
+<p align="center">
+  <img src="./assets/محور الطحن والتعويم الرغوي الكيميائي شركة Metso.png" alt="محور الطحن والتعويم الرغوي الكيميائي شركة Metso" width="1200">
+</p>
+
+---
 *   **المساحة المخصصة:** **60,000 متر مربع**.
 *   **الخطة الحالية:** تشغيل مطاحن ميتسو العمودية (VTM) المبطنة بالسيراميك لمنع التلوث الحديدي، وبناء مصفوفة صهاريج التعويم الرغوي لعزل شوائب الفلدسبار والميكا، وتأسيس محطة تدوير مياه مغلقة لإعادة استخدام 90% من المياه.
 *   **الخطة المستقبلية:** تطوير نظام الحقن الكيميائي ليعمل بالذكاء الاصطناعي بالكامل، بحيث تقرأ مستشعرات المصنع نسبة الشوائب وتضبط كميات المواد الرغوية آلياً لضمان جودة إنتاج ثابتة 100%.
