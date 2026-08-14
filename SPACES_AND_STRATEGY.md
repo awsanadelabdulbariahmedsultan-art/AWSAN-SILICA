@@ -14,6 +14,21 @@ This document outlines the geographical and industrial space allocations, inner 
 ## 🗺️ 1. Geographical Space Allocation & Open-Pit Mining Sites
 
 ### 📍 A. Thagban, Tawzan, & Al-Arisha (Sana'a Governorate)
+
+---
+
+<p align="center">
+  <img src="./assets/محافظة صنعاء (منطقة ثقبان، طوظان، والعريشة) (1).png" alt="محافظة صنعاء (منطقة ثقبان، طوظان، والعريشة) (1)" width="1200">
+</p>
+
+---
+
+<p align="center">
+  <img src="./assets/محافظة صنعاء (منطقة ثقبان، طوظان، والعريشة).png" alt="محافظة صنعاء (منطقة ثقبان، طوظان، والعريشة)" width="1200">
+</p>
+
+---
+
 *   **Total Allocated Area:** **12 Square Kilometers** (Primary Mining & Exploration Concession).
 *   **Inner Space Zoning Distribution:**
     *   **Open-Pit Quarry Zones (Mines):** 6 sq. km (Engineered with safe geological benching tiers).
@@ -24,6 +39,22 @@ This document outlines the geographical and industrial space allocations, inner 
 *   **Future Operational Plan (Years 3-5):** Sinking advanced underground mining shafts to tap into deeper, pristine ultra-pure quartz zones, and establishing a local mining academy to train and certify Yemeni geological and engineering cadres.
 
 ### 📍 B. Wajid Sandstone Fields (Shabwah & Hadramout Governorates)
+
+---
+
+<p align="center">
+  <img src="./assets/Modern_idustrial_Mining_حقول_الرمل_شبوه_ وحضرموت.png" alt="Modern_idustrial_Mining_حقول_الرمل_شبوه_ وحضرموت" width="1200">
+</p>
+
+---
+
+
+<p align="center">
+  <img src="./assets/Sweeping_desert_Canyons.png" alt="Sweeping_desert_Canyons" width="1200">
+</p>
+
+---
+
 *   **Total Allocated Area:** **35 Square Kilometers** (Expansive sedimentary fields due to thick sandstone layers).
 *   **Inner Space Zoning Distribution:**
     *   **Automated Surface Scraping Sectors:** 25 sq. km (Segmented into rotating extraction grids).
@@ -34,6 +65,23 @@ This document outlines the geographical and industrial space allocations, inner 
 *   **Future Operational Plan (Years 3-5):** Full automation of sand harvesting using GPS-guided, satellite-linked heavy machinery to boost production to 2 Million Tons per Year, and constructing a continuous Wet Slurry Pipeline to pump refined sand directly from fields to the nearest shipping port, eliminating inland hauling costs.
 
 ### 📍 C. Ecological Isolated Zone - Arher & Zaheq Dunes (Socotra Archipelago)
+
+---
+
+<p align="center">
+  <img src="./assets/عرهر_زاهق_جزيرة_سقطرى.png" alt="عرهر_زاهق_جزيرة_سقطرى" width="1200">
+</p>
+
+---
+
+
+<p align="center">
+  <img src="./assets/إنفوجرافيك -الخط الأخضر المعزول بيئياً في سقطرى-.png" alt="إنفوجرافيك -الخط الأخضر المعزول بيئياً في سقطرى-" width="1200">
+</p>
+
+
+---
+
 *   **Total Allocated Area:** **1.5 Square Kilometers Only** (Strictly bounded and ecologically restricted buffer zone).
 *   **Inner Space Zoning Distribution:**
     *   **Low-Impact Automated Sourcing Sector:** 500,000 sq. meters (Surface-only harvesting to prevent alterations to the pristine, towering dune topography).
@@ -46,7 +94,7 @@ This document outlines the geographical and industrial space allocations, inner 
 
 ## 🏭 2. Industrial Space Allocations & Mega-Refinery Complexes
 
-### 📍 D. Integrated Refining & Finished Product Mega-Complex (Ain Sokhna Economic Zone)
+### 📍 D. Integrated Refining & Finished Product Mega-Complex :
 *   **Total Allocated Area:** **66 Acres** (Approximately **277,000 Square Meters**).
 *   **Engineering Plant Layout & Industrial Infrastructure Matrix:**
 
@@ -97,6 +145,20 @@ This document outlines the geographical and industrial space allocations, inner 
 ## 🗺️ أولاً: المساحات الجغرافية ومناطق الاستخراج والتعدين الميداني
 
 ### 📍 1. منطقة ثقبان وطوظان والعريشة (محافظة صنعاء)
+
+---
+
+<p align="center">
+  <img src="./assets/محافظة صنعاء (منطقة ثقبان، طوظان، والعريشة) (1).png" alt="محافظة صنعاء (منطقة ثقبان، طوظان، والعريشة) (1)" width="1200">
+</p>
+
+---
+
+<p align="center">
+  <img src="./assets/محافظة صنعاء (منطقة ثقبان، طوظان، والعريشة).png" alt="محافظة صنعاء (منطقة ثقبان، طوظان، والعريشة)" width="1200">
+</p>
+
+---
 *   **المساحة الإجمالية المخصصة:** **12 كيلومتر مربع** (منطقة امتياز وتنقيب رئيسية).
 *   **التقسيم الداخلي للمساحة:**
     *   **منطقة المحاجر المكشوفة (Quarries):** 6 كيلومتر مربع (مقسمة لمدرجات تعدينية آمنة هندسياً).
@@ -107,6 +169,21 @@ This document outlines the geographical and industrial space allocations, inner 
 *   **الخطة التشغيلية المستقبلية (من 3 إلى 5 سنوات):** حفر أنفاق تعدينية متطورة للوصول للعروق العميقة الأكثر نقاءً، وتأسيس مركز تدريب تعديني محلي لتأهيل الكوادر الهندسية اليمنية.
 
 ### 📍 2. حقول رمال وجيد التعدينية (محافظتا شبوة وحضرموت)
+
+---
+
+<p align="center">
+  <img src="./assets/Modern_idustrial_Mining_حقول_الرمل_شبوه_ وحضرموت.png" alt="Modern_idustrial_Mining_حقول_الرمل_شبوه_ وحضرموت" width="1200">
+</p>
+
+---
+
+
+<p align="center">
+  <img src="./assets/Sweeping_desert_Canyons.png" alt="Sweeping_desert_Canyons" width="1200">
+</p>
+
+---
 *   **المساحة الإجمالية المخصصة:** **35 كيلومتر مربع** (نظراً لامتداد الطبقات الرسوبية وسماكتها الشاسعة).
 *   **التقسيم الداخلي للمساحة:**
     *   **منطقة جرف الرمال السطحية الآلية:** 25 كيلومتر مربع (مقسمة إلى قطاعات يتم استغلالها بالتناوب).
@@ -116,7 +193,22 @@ This document outlines the geographical and industrial space allocations, inner 
 *   **الخطة التشغيلية الحالية (خلال سنتين):** إنشاء الطرق الممهدة، وبدء استخراج التعدين السطحي المفتوح بطاقة استيعابية 500 ألف طن سنوياً مع تفعيل محطة الغسيل الأولية لرفع النقاء والتصدير للأسواق الإقليمية والخليجية.
 *   **الخطة التشغيلية المستقبلية (من 3 إلى 5 سنوات):** أتمتة جرف الرمال بالكامل باستخدام آليات موجهة بالأقمار الصناعية لرفع الإنتاج إلى 2 مليون طن سنوياً، وإنشاء خط أنابيب رطب (Slurry Pipeline) لنقل السيليكا مباشرة من الحقول إلى أقرب ميناء تصديري لخفض كلفة النقل.
 
-### 📍 3. الخط البيئي المعزول بكثبان أرشر وزاهق (محافظة أرخبيل سقطرى)
+### 📍 3. الخط البيئي المعزول بكثبان عرهر أرشر وزاهق (محافظة أرخبيل سقطرى)
+
+---
+
+<p align="center">
+  <img src="./assets/عرهر_زاهق_جزيرة_سقطرى.png" alt="عرهر_زاهق_جزيرة_سقطرى" width="1200">
+</p>
+
+---
+
+
+<p align="center">
+  <img src="./assets/إنفوجرافيك -الخط الأخضر المعزول بيئياً في سقطرى-.png" alt="إنفوجرافيك -الخط الأخضر المعزول بيئياً في سقطرى-" width="1200">
+</p>
+
+---
 *   **المساحة الإجمالية المخصصة:** **1.5 كيلومتر مربع فقط** (مساحة مقيدة بيئياً ومحكومة بصرامة).
 *   **التقسيم الداخلي للمساحة:**
     *   **منطقة الحصاد الآلي منخفض التأثير (Low-impact Sourcing):** 500,000 متر مربع (معالجة سطحية ناعمة لتجنب تغيير طبوغرافية الكثبان الشاهقة).
@@ -129,7 +221,7 @@ This document outlines the geographical and industrial space allocations, inner 
 
 ## 🏭 ثانياً: المساحات والخطط التشغيلية للمنشآت والمجمعات الصناعية (التكرير والإنتاج النهائي)
 
-### 📍 4. مجمع مصانع التكرير والإنهاء والإنتاج النهائي العملاق (العين السخنة - المنطقة الاقتصادية)
+### 📍 4. مجمع مصانع التكرير والإنهاء والإنتاج النهائي العملاق :
 *   **المساحة الإجمالية المخصصة للمجمع:** **66 فداناً** (أي ما يعادل تقريباً **277,000 متر مربع**).
 *   **التوزيع الهندسي للمساحات والمصانع الأربعة والخطط التشغيلية بداخل المجمع:**
 
