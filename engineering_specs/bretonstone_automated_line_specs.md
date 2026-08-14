@@ -5,6 +5,13 @@
 
 ---
 
+
+<p align="center">
+  <img src="./assets/منشأة تصنيع الألواح والمنتج النهائي 80,000m2.png" alt="منشأة تصنيع الألواح والمنتج النهائي 80,000m2" width="1200">
+</p>
+
+---
+
 ## 📌 1. Process Engineering & Raw Material Dosing (Phase 4 Input)
 
 Based on the highly continuous industrial automation configuration optimized for mass slab formulation and advanced engineered quartz compounding, the production bay operates via four sequential heavy engineering tracks:
@@ -46,6 +53,12 @@ Operational tracking, system monitoring, and automation synchronization are gove
 
 # وثيقة المواصفات الهندسية: خط كبس بريتون ستون للفراغ والاهتزاز الآلي والتشطيب الروبوتي المتقدم
 ## البنية التحتية المتقدمة لسلسلة القيمة لمجمع أوسان للسيليكا فائقة النقاء (AWSAN-SILICA)
+
+---
+
+<p align="center">
+  <img src="./assets/منشأة تصنيع الألواح والمنتج النهائي 80,000m2.png" alt="منشأة تصنيع الألواح والمنتج النهائي 80,000m2" width="1200">
+</p>
 
 ---
 
