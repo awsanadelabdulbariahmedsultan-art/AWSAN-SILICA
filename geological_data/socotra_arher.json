@@ -1,0 +1,35 @@
+{
+  "project_name": "AWSAN-SILICA-PROJECT",
+  "location_id": "SOCOTRA-ARHER-03",
+  "geographic_coordinates": {
+    "latitude": "12.6050",
+    "longitude": "54.4300",
+    "region": "Arher Coastal Dunes, Socotra Archipelago, Yemen"
+  },
+  "geological_formation": {
+    "deposit_type": "Aeolian Coastal Silica Dunes",
+    "estimated_reserves_tons": 12000000,
+    "accessibility_status": "Surface Sand Harvesting / Environmentally Shielded Zone"
+  },
+  "chemical_composition_after_processing": {
+    "SiO2_purity_percentage": 99.950,
+    "impurities_ppm": {
+      "Fe2O3_iron_oxide": 15.0,
+      "Al2O3_aluminum_oxide": 85.0,
+      "TiO2_titanium_dioxide": 4.5,
+      "LOI_loss_on_ignition": 0.12
+    }
+  },
+  "physical_properties": {
+    "grain_size_distribution_mm": "0.150 - 0.350",
+    "moisture_content_percentage": 0.10,
+    "refractoriness_celsius": 1720,
+    "grain_shape": "Highly Rounded / Sub-spherical"
+  },
+  "industrial_classification": {
+    "target_industry": "Specialized Technical Glass, Ceramics & Foundry Casts",
+    "benchmark_standard": "Coventry Minerals Refractory Specification",
+    "recommended_refining_method": "Fluidized Bed Fluidization + Hydro-cyclone Attrition Crushing"
+  },
+  "intellectual_property": "Powered By eng AWSAN ADEL ABDULBARI AHMED SULTAN"
+}
