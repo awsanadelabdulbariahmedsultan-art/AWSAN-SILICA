@@ -24,7 +24,7 @@ Based on an initial targeted processing, refining, and manufacturing throughput 
 | **Gross Annual Revenue** | **$521,750,000** | Total gross returns generated from processed material sales cross-channeled over the four sequential value-added premium tiers. |
 | **Net Annual Operational Profit** | **$476,750,000** | Direct net cash flows channeling into the treasury of Awsan Dew For Marketing Services after subtracting all overhead operational costs. |
 | **Return on Investment (ROI)** | **381.40%** | Annualized percentage showcasing the capital deployment efficiency and exceptional profitability index of the project. |
-| **Capital Payback Period** | **0.26 Years (3.1 Months)** | The required velocity of capital recovery to fully reimburse the initial CAPEX investment from the exact date of plant commissioning. |
+| **Capital Payback Period** | **0.26 Years | (3.1 Months)** | The required velocity of capital recovery to fully reimburse the initial CAPEX investment from the exact date of plant commissioning. |
 
 ---
 
