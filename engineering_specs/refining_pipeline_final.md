@@ -231,6 +231,12 @@ All engineering schematics, structural machinery layouts, crusher distribution v
 
 ---
 
+<p align="center">
+  <img src="./assets/الفصل المغناطيسي المتطور (HGMS-AWS-100).png" alt="الفصل المغناطيسي المتطور (HGMS-AWS-100)" width="1200">
+</p>
+
+---
+
 ## 📌 PHASE 1: INDUSTRIAL INFRASTRUCTURE & PHYSICAL MECHANICAL STAGES
 
 Based on the validated industrial layouts, mechanical simulations, and certified plant configurations customized for the complex, the refining pipeline consists of four sequentially synchronized, 100% automated physical and electromagnetic processing stages:
@@ -514,6 +520,13 @@ All engineering schematics, structural machinery layouts, crusher distribution v
 
 # وثيقة المواصفات الهندسية الشاملة: خطوط الإنتاج الصناعية، الفصل المتقدم وبنية أتمتة إنترنت الأشياء الصناعية (IIoT)
 ## المخطط الرئيسي العالمي لمجمع أوسان سيليكا AWSAN SILICCA المتكامل لمعالجة السيليكا عالية النقاء (AWSAN-SILICA)
+
+---
+
+<p align="center">
+  <img src="./assets/الفصل المغناطيسي المتطور (HGMS-AWS-100).png" alt="الفصل المغناطيسي المتطور (HGMS-AWS-100)" width="1200">
+</p>
+
 
 ---
 
