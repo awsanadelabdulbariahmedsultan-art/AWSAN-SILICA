@@ -9,6 +9,13 @@
 ---
 
 <p align="center">
+  <img src="./assets/الإنفوجرافيك لمشروع-سيليكا أوسان-(النموذج العام).png" alt="الإنفوجرافيك لمشروع-سيليكا أوسان-(النموذج العام)" width="1200">
+</p>
+
+
+---
+
+<p align="center">
   <img src="./assets/AWSAN SILICA2.png" alt="AWSAN SILICA2" width="1200">
 </p>
 
@@ -203,6 +210,13 @@ This project, including all technical, geological, economic, and programmatic co
 <p align="center">
   <img src="./assets/صورة جوية للتصميم الخارجي للمنشأة الصناعية.png" alt="صورة جوية للتصميم الخارجي للمنشأة الصناعية" width="1200">
 </p>
+
+---
+
+<p align="center">
+  <img src="./assets/الإنفوجرافيك لمشروع-سيليكا أوسان-(النموذج العام).png" alt="الإنفوجرافيك لمشروع-سيليكا أوسان-(النموذج العام)" width="1200">
+</p>
+
 
 ---
 
