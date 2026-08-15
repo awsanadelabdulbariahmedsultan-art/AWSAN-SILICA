@@ -21,7 +21,7 @@ The implementation of the **AWSAN SILICA** capitalization target (\$125,000,000 
 ### 📈 Phase 2: Industrial Refining Mega-Complex (Months 7 – 18)
 *   **Funding Milestone Capital Target:** **$60,000,000 USD**
 *   **Execution Milestones & Infrastructure Scope:**
-    *   Civil engineering site works across the 66-acre complex within the Ain Sokhna Economic Zone.
+    *   Civil engineering site works across the 66-acre complex within  Economic Zone.
     *   Delivery and installation of **Metso Outotec Ceramic-lined Vertical Mills (VTM)** and automated Froth Flotation cells.
     *   Erection of the **50 MW Rooftop Bifacial Solar Grid** and **120 MWh Battery Energy Storage System (BESS)** to secure energy self-sufficiency.
     *   Integration of the 62,000 $m^2$ Climate-Controlled AS/RS Smart Automated Warehousing environment.
@@ -75,7 +75,7 @@ To preserve the absolute leadership and strategic vision of the founder, **Awsan
 ### 📈 المرحلة 2: المجمع الصناعي للتكرير والتركيز المتقدم (الأشهر 7 – 18)
 *   **مستهدف رأس المال لهذه المرحلة:** **$60,000,000** (ستون مليون دولار أمريكي).
 *   **الخطوات التأسيسية ونطاق البنية التحتية:**
-    *   بدء الأعمال المدنية والإنشائية للمنشآت على مساحة 66 فداناً في المنطقة الاقتصادية بالعين السخنة.
+    *   بدء الأعمال المدنية والإنشائية للمنشآت على مساحة 66 فداناً في المنطقة الاقتصادية .
     *   شراء وتوريد مطاحن ميتسو العمودية المبطنة بالسيراميك (VTM) ومصفوفة صهاريج التعويم الرغوي الآلي من شركة **Metso Outotec الفنلندية**.
     *   تركيب **محطة الطاقة الشمسية بقدرة 50 ميجاوات** وشبكة بطاريات التخزين الصناعية بقدرة **120 ميجاوات/ساعة (BESS)** لضمان الاكتفاء الذاتي من الطاقة.
     *   تأسيس المخازن اللوجستية الذكية المؤتمتة بالكامل (AS/RS) على مساحة 62,000 متر مربع وضبط الرطوبة بها.
