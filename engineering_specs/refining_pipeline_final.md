@@ -283,6 +283,14 @@ The entire refining pipeline is managed via a centralized, fifth-generation Indu
 
 ## 🚀 PHASE 3: NEXT-GENERATION REVOLUTIONARY TECH UPGRADES
 
+---
+
+<p align="center">
+  <img src="./assets/الليزر،طحن نفاث، معالجة المياه،صهر سيليكون لرقاقات.png" alt="الليزر،طحن نفاث، معالجة المياه،صهر سيليكون لرقاقات" width="1200">
+</p>
+
+---
+
 To position this processing pipeline far ahead of legacy operations run by global mining conglomerates like *Sibelco*, *U.S. Silica*, and *Coventry Minerals*, the following cutting-edge tech integration proposals are embedded into the master engineering blueprint:
 
 1. **Inline Laser-Induced Breakdown Spectroscopy (LIBS) & Optical Sorting:**
@@ -575,6 +583,13 @@ All engineering schematics, structural machinery layouts, crusher distribution v
 ---
 
 ## 🚀 ## 🚀 المرحلة 3: ترقيات تكنولوجية ثورية من الجيل القادم
+---
+
+<p align="center">
+  <img src="./assets/الليزر،طحن نفاث، معالجة المياه،صهر سيليكون لرقاقات.png" alt="الليزر،طحن نفاث، معالجة المياه،صهر سيليكون لرقاقات" width="1200">
+</p>
+
+---
 
 لوضع خط أنابيب المعالجة هذا في صدارة العمليات التقليدية التي تديرها تكتلات التعدين العالمية مثل *Sibelco* و *U.S. Silica* و *Coventry Minerals*، تم دمج مقترحات تكنولوجيا التكامل المتطورة التالية في المخطط الهندسي الرئيسي:
 
