@@ -81,41 +81,54 @@ Currently, raw silica sand is sold or exported at low commodity prices (approx. 
 ```backcountry
 AWSAN-SILICA/
 │
-├── 📂 geological_data/          # Raw surveys, GIS shapefiles, and purity lab results
-│   ├── sanaa_thagban.json
-│   ├── mahwit_tawilah.json
-│   └── socotra_arher.json
+├── 📂 assets/                     # Project visual assets, diagrams, and media branding
 │
-├── 📂 engineering_specs/        # Blueprints for flotation tanks & eco-friendly separators
+├── 📂 engineering_specs/          # Blueprints for flotation tanks & eco-friendly separators
 │   └── refining_pipeline_v1.pdf
 │
-└── 📂 financial_models/                   # 🔒 CRITICAL: Main Proprietary Financial & Investment Hub (Protected by .gitignore)
-    │
-    ├── 📂 corporate_letters/             # ✉️ Official Letters of Intent (LOIs) to Global Partners
-    │   ├── LOI_Dorfner_Anzaplan.txt       # Sample processing & chemical purification evaluation (Germany)
-    │   ├── LOI_TOMRA_Mining.txt           # Mid-air sensor-based laser sorting infrastructure (Germany/Norway)
-    │   ├── LOI_Breton_Spa.txt             # Patented BretonStone® luxury quartz slab compaction line (Italy)
-    │   ├── LOI_Metso_Outotec.txt          # Ceramic-lined vertical milling & froth flotation cells (Finland)
-    │   ├── LOI_Eriez_Magnetics.txt        # High-intensity rare earth electromagnetic drum matrices (USA)
-    │   └── LOI_SRK_Consulting.txt         # Bankable Feasibility Study (BFS) & JORC resource certification (UK)
-    │
-    ├── 📂 feasibility_studies/           # 📊 Bankable Feasibility Studies & Valuation Projections
-    │   ├── summary_feasibility_2026.md    # Executive financial summary and project scope (Bilingual)
-    │   └── financial_assumptions.json     # Dynamic system configurations (Exchange rates, inflation indices, discount rates)
-    │
-    ├── 📂 capex_opex_sheets/              # 📈 Spreadsheet Modeling & Cost Analysis (Excel/CSV Formats)
-    │   ├── capex_machinery_cost.xlsx      # Machinery acquisition, installation, and civil engineering budgeting
-    │   ├── opex_operational_cost.xlsx     # Operational overhead (Salaries, eco-reagents, solar power utilities, freight)
-    │   └── revenue_projection_model.xlsx  # ROI forecasting models based on the structural value-added multiplier
-    │
-    └── 📂 investor_pitch/                 # 💼 Venture Capitalist & Sovereign Wealth Fund Pitch Decks
-        ├── prospectus_awsan_silica.pdf    # Official preliminary private placement memorandum & investor prospectus
-        └── investment_phases_timeline.md  # Multi-tier equity sharing structures and funding horizon checkpoints
-
+├── 📂 financial_models/           # 🔒 CRITICAL: Main Proprietary Financial & Investment Hub (Protected by .gitignore)
+│   │
+│   ├── 📂 corporate_letters/             # ✉️ Official Letters of Intent (LOIs) to Global Partners
+│   │   ├── LOI_Dorfner_Anzaplan.txt       # Sample processing & chemical purification evaluation (Germany)
+│   │   ├── LOI_TOMRA_Mining.txt           # Mid-air sensor-based laser sorting infrastructure (Germany/Norway)
+│   │   ├── LOI_Breton_Spa.txt             # Patented BretonStone® luxury quartz slab compaction line (Italy)
+│   │   ├── LOI_Metso_Outotec.txt          # Ceramic-lined vertical milling & froth flotation cells (Finland)
+│   │   ├── LOI_Eriez_Magnetics.txt        # High-intensity rare earth electromagnetic drum matrices (USA)
+│   │   └── LOI_SRK_Consulting.txt         # Bankable Feasibility Study (BFS) & JORC resource certification (UK)
+│   │
+│   ├── 📂 feasibility_studies/           # 📊 Bankable Feasibility Studies & Valuation Projections
+│   │   ├── financial_assumptions.json     # Dynamic system configurations (Exchange rates, inflation indices, discount rates)
+│   │   └── summary_feasibility_2026.md    # Executive financial summary and project scope (Bilingual)
+│   │
+│   ├── 📂 capex_opex_sheets/              # 📈 Spreadsheet Modeling, Automation Scripts & Cost Analysis
+│   │   ├── awsan_silica_app.py            # Streamlit/Dash core application script for interactive financial modeling
+│   │   ├── generate_capex_sheet.py        # Python script to calculate and export Capital Expenditure datasets
+│   │   ├── generate_opex_sheet.py         # Python script to automate and simulate Operational Expenditure frameworks
+│   │   ├── generate_revenue_model.py      # Python routine for generating revenue projection matrix and cash flows
+│   │   ├── revenue_projection_model.py    # Algorithmic pricing models and long-term asset valuation logic
+│   │   └── spreadsheet_modeling_master.md # 📄 Documentation guide for internal financial engines and excel templates
+│   │
+│   ├── 📂 investor_pitch/                 # 💼 Venture Capitalist & Sovereign Wealth Fund Pitch Decks
+│   │   ├── investment_phases_timeline.md  # Multi-tier equity sharing structures and funding horizon checkpoints
+│   │   └── prospectus_awsan_silica.md     # 📄 Official preliminary private placement memorandum & investor prospectus
+│   │
+│   └── 📄 feasibility_study_2026.md       # 📑 Central comprehensive project evaluation report and baseline financial metrics
 │
-├── LICENSE                      # Proprietary Ownership and Rights Reserved File
-└── README.md                    # Main Project Overview (This file)
+├── 📂 geological_data/            # Raw surveys, GIS shapefiles, and purity lab results
+│   ├── mahwit_tawilah.json            # Purity and geological data for Al-Mahwit (At-Tawilah)
+│   ├── sanaa_thagban.json             # High-purity silica sand data for Sana'a (Thagban field)
+│   ├── socotra_arher.json             # Quartz sand survey for Socotra (Arher beach/dunes)
+│   └── yemen_field_report_2026.md     # 📄 Comprehensive field investigation report and analytical findings (2026)
+│
+├── PARTNERS_AND_SPECS.md          # Partnership conditions and technical standards details
+├── PLANTS_AND_SYSTEMS_MASTER.md   # Master file for processing plants and infrastructure systems
+├── SMART_STORAGE_AND_SOLAR.md     # Strategy and specs for smart storage facilities and solar power utilities
+├── SPACES_AND_STRATEGY.md         # Spatial allocation and macro-economic operational strategies
+├── .gitignore                     # Specifies intentionally untracked files to ignore
+├── LICENSE                        # Proprietary Ownership and Rights Reserved File
+└── README.md                      # Main Project Overview and Strategic Vision
 ```
+
 
 ---
 
@@ -201,24 +214,57 @@ This project, including all technical, geological, economic, and programmatic co
 
 ---
 
-## 📁 الهيكل الداخلي لمجلدات المستودع
+📁 البنية الهيكلية للمستودع (Repository Directory Structure)
 
 ```backcountry
 AWSAN-SILICA/
 │
-├── 📂 geological_data/          # المسوحات الخام، ملفات الـ GIS، ونتائج نقاوة المختبرات
-│   ├── sanaa_thagban.json
-│   ├── mahwit_tawilah.json
-│   └── socotra_arher.json
+├── 📂 assets/                     # الأصول المرئية للمشروع، الرسوم البيانية، والهوية الإعلامية للعلامة التجارية
 │
-├── 📂 engineering_specs/        # المخططات الهندسية لخطوط الإنتاج وفلاتر الفصل الصديقة للبيئة
+├── 📂 engineering_specs/          # المخططات الهندسية لخزانات التعويم والفواصل الصديقة للبيئة
 │   └── refining_pipeline_v1.pdf
 │
-├── 📂 financial_models/         # دراسات الجدوى، حساب التكاليف، ومعدلات الأرباح لمؤسسة أوسان دو
-│   └── feasibility_study_2026.xlsx
+├── 📂 financial_models/           # 🔒 هام وحرج: المركز الرئيسي للبيانات المالية والاستثمارية المملوكة (محمي بواسطة gitignore.)
+│   │
+│   ├── 📂 corporate_letters/             # ✉️ خطابات النوايا الرسمية (LOIs) الموجهة للشركاء العالميين
+│   │   ├── LOI_Dorfner_Anzaplan.txt       # تقييم معالجة العينات والتنقية الكيميائية (ألمانيا)
+│   │   ├── LOI_TOMRA_Mining.txt           # بنية فرز الليزر المعتمدة على الاستشعار في الهواء (ألمانيا/النرويج)
+│   │   ├── LOI_Breton_Spa.txt             # خط كبس ألواح الكوارتز الفاخرة الحاصل على براءة اختراع ®BretonStone (إيطاليا)
+│   │   ├── LOI_Metso_Outotec.txt          # خلايا تعويم الرغوة والطحن الرأسي المبطن بالسيراميك (فنلندا)
+│   │   ├── LOI_Eriez_Magnetics.txt        # مصفوفات الأسطوانات الكهرومغناطيسية للعناصر الأرضية النادرة عالية الكثافة (أمريكا)
+│   │   └── LOI_SRK_Consulting.txt         # دراسة الجدوى البنكية (BFS) واعتماد موارد JORC (بريطانيا)
+│   │
+│   ├── 📂 feasibility_studies/           # 📊 دراسات الجدوى البنكية والتوقعات التقييمية للمشروع
+│   │   ├── financial_assumptions.json     # إعدادات النظام الديناميكية (أسعار الصرف، مؤشرات التضخم، معدلات الخصم)
+│   │   └── summary_feasibility_2026.md    # الملخص المالي التنفيذي ونطاق المشروع (ثنائي اللغة)
+│   │
+│   ├── 📂 capex_opex_sheets/              # 📈 نمذجة الجداول الحسابية، سكربتات الأتمتة، وتحليل التكاليف
+│   │   ├── awsan_silica_app.py            # السكربت البرمجي الرئيسي لتطبيق Streamlit/Dash للنمذجة المالية التفاعلية
+│   │   ├── generate_capex_sheet.py        # سكربت بايثون لحساب وتصدير بيانات النفقات الرأسمالية (CAPEX)
+│   │   ├── generate_opex_sheet.py         # سكربت بايثون لأتمتة ومحاكاة أطر النفقات التشغيلية (OPEX)
+│   │   ├── generate_revenue_model.py      # إجراء برميجي لتوليد مصفوفة توقعات الإيرادات والتدفقات النقدية
+│   │   ├── revenue_projection_model.py    # خوارزميات نماذج التسعير ومنطق تقييم الأصول على المدى الطويل
+│   │   └── spreadsheet_modeling_master.md # 📄 دليل التوثيق لمحركات النماذج المالية الداخلية وقوالب الإكسل
+│   │
+│   ├── 📂 investor_pitch/                 # 💼 العروض التقديمية الموجهة للمستثمرين الصناديق السيادية ورؤوس الأموال الاستثمارية
+│   │   ├── investment_phases_timeline.md  # هياكل تقاسم الأسهم متعددة المستويات ومراحل التمويل المستهدفة
+│   │   └── prospectus_awsan_silica.md     # 📄 مذكرة الطرح الخاص الأولي التمهيدي ونشرة المستثمر الرسمية
+│   │
+│   └── 📄 feasibility_study_2026.md       # 📑 تقرير تقييم المشروع الشامل والمركز والمقاييس المالية الأساسية
 │
-├── LICENSE                      # ملف الحماية القانونية وحفظ الملكية الفكرية
-└── README.md                    # ملف نظرة عامة على المشروع (الملف الحالي)
+├── 📂 geological_data/            # المسوحات الخام، ملفات نظام المعلومات الجغرافي (GIS)، ونتائج مختبرات النقاء
+│   ├── mahwit_tawilah.json            # بيانات النقاء والمسح الجيولوجي لمحافظة المحويت (منطقة الطويلة)
+│   ├── sanaa_thagban.json             # بيانات رمل السيليكا عالي النقاء لمحافظة صنعاء (حقل ثقبان)
+│   ├── socotra_arher.json             # مسح رمل الكوارتز لجزيرة سقطرى (منطقة أرخر)
+│   └── yemen_field_report_2026.md     # 📄 تقرير التحقيق الميداني الشامل والنتائج التحليلية لعام 2026
+│
+├── PARTNERS_AND_SPECS.md          # تفاصيل شروط الشراكة والمعايير الفنية والتقنية
+├── PLANTS_AND_SYSTEMS_MASTER.md   # الملف الرئيسي للمصانع الإنتاجية وأنظمة البنية التحتية
+├── SMART_STORAGE_AND_SOLAR.md     # استراتيجية ومواصفات مرافق التخزين الذكية ومرافق الطاقة الشمسية
+├── SPACES_AND_STRATEGY.md         # التخصيص المكاني والعمليات الاستراتيجية للاقتصاد الكلي
+├── .gitignore                     # لتحديد الملفات والمجلدات غير المتتبعة التي يتم تجاهلها عمداً
+├── LICENSE                        # ملف الملكية الفكرية الخاص وحفظ الحقوق
+└── README.md                      # النظرة العامة الرئيسية للمشروع والرؤية الاستراتيجية
 ```
 
 ---
