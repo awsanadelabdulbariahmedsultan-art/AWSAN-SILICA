@@ -64,7 +64,13 @@ Yemen holds an estimated **2 Billion cubic meters** of high-purity silica sandst
   <img src="./assets/1786819865969.png" alt="1786819865969  - View 2" width="49%">
 </p>
 
+---
 
+
+<p align="center">
+  <img src="./assets/1786819830203.png" alt="1786819830203  - View 1" width="49%">
+  <img src="./assets/1786819812165.png" alt="1786819812165  - View 2" width="49%">
+</p>
 
 ---
 
@@ -258,6 +264,14 @@ This project, including all technical, geological, economic, and programmatic co
 </p>
 
 
+
+---
+
+
+<p align="center">
+  <img src="./assets/1786819830203.png" alt="1786819830203  - View 1" width="49%">
+  <img src="./assets/1786819812165.png" alt="1786819812165  - View 2" width="49%">
+</p>
 
 ---
 
