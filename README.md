@@ -22,6 +22,12 @@
 ---
 
 <p align="center">
+  <img src="./assets/رحلة الخام الجغرافية والتصنيعية.png" alt="رحلة الخام الجغرافية والتصنيعية" width="1200">
+</p>
+
+---
+
+<p align="center">
   <img src="./assets/AWSAN SILICA3.png" alt="AWSAN SILICA3" width="1200">
 </p>
 
@@ -222,6 +228,12 @@ This project, including all technical, geological, economic, and programmatic co
 
 <p align="center">
   <img src="./assets/AWSAN SILICA2.png" alt="AWSAN SILICA2" width="1200">
+</p>
+
+---
+
+<p align="center">
+  <img src="./assets/رحلة الخام الجغرافية والتصنيعية.png" alt="رحلة الخام الجغرافية والتصنيعية" width="1200">
 </p>
 
 ---
