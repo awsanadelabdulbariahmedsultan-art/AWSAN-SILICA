@@ -8,7 +8,7 @@
 
 ## 📈 1. Financial Indicators & Break-Even Executive Summary
 
-Based on rigorous metallurgical engineering configurations, a target natural purity range of **99.4% to 4N+**, and an initial targeted raw material extraction capacity of **500,000 Tons per Year** cross-mapped between domestic Yemeni mining sites and the Ain Sokhna advanced processing mega-complex, the financial simulation models yields the following metrics:
+Based on rigorous metallurgical engineering configurations, a target natural purity range of **99.4% to 4N+**, and an initial targeted raw material extraction capacity of **500,000 Tons per Year** cross-mapped between domestic Yemeni mining sites advanced processing mega-complex, the financial simulation models yields the following metrics:
 
 *   **Total Projected Annual Revenue:** **\$521,750,000** (Five Hundred Twenty-One Million, Seven Hundred Fifty Thousand USD).
 *   **Total Capital Expenditure (CAPEX):** **\$125,000,000** (One Hundred Twenty-Five Million USD).
@@ -119,7 +119,7 @@ calculate_awsan_silica_roi(500000)
 
 ## 📈 1. الخلاصة الرقمية ونقاط التعادل الاقتصادية (Financial Summary)
 
-بناءً على الحسابات الهندسية ومعدلات النقاء المستهدفة (99.4% إلى 4N+)، ومعدل إنتاج أولي يبلغ **500,000 طن سنوياً** موزعة على جغرافيا المواقع في اليمن ومجمع التصنيع في العين السخنة، تلخص المؤشرات المالية الحسابية الدقيقة كالتالي:
+بناءً على الحسابات الهندسية ومعدلات النقاء المستهدفة (99.4% إلى 4N+)، ومعدل إنتاج أولي يبلغ **500,000 طن سنوياً** موزعة على جغرافيا المواقع في اليمن تلخص المؤشرات المالية الحسابية الدقيقة كالتالي:
 
 *   **إجمالي الإيرادات السنوية المتوقعة (Annual Revenue):** **\$521,750,000** (خمسمائة وواحد وعشرون مليوناً وسبعمائة وخمسون ألف دولار أمريكي).
 *   **إجمالي التكاليف الرأسمالية للتأسيس (Total CAPEX):** **\$125,000,000** (مائة وخمسة وعشرون مليون دولار أمريكي).
