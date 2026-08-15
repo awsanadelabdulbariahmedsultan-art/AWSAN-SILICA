@@ -31,7 +31,7 @@ Based on the final staging of the **Breton S.p.A. Automated Production Line**, t
   * **Corporate Property Core:** `PROJECT: AWSAN DEW FOR MARKETING SERVICES`
   * **Sovereign Origin Designation:** `MADE IN YEMEN`
   * **Logistics Status Index:** `EXPORT READY`
-  * **Target Market Segments:** `LUXURY HOTELS & HOSPITALS`
+  * **Target Market Segments:** `Technology Companies، LUXURY HOTELS & HOSPITALS`
 
 ---
 
@@ -76,7 +76,7 @@ Based on the final staging of the **Breton S.p.A. Automated Production Line**, t
   * **النواة القانونية للمشروع:** `PROJECT: AWSAN DEW FOR MARKETING SERVICES` (مشروع: مؤسسة أوسان دو للخدمات التسويقية)
   * **بلد المنشأ السيادي الفخور:** `MADE IN YEMEN` (صُنع في اليمن)
   * **مؤشر الحالة اللوجستية:** `EXPORT READY` (جاهز للتصدير)
-  * **القطاعات السوقية المستهدفة:** `LUXURY HOTELS & HOSPITALS` (الفنادق الفاخرة والمستشفيات)
+  * **القطاعات السوقية المستهدفة:** `Technology Companies , LUXURY HOTELS & HOSPITALS` (الشركات التكنولوجية ، الفنادق الفاخرة ، والمستشفيات)
 
 ---
 
