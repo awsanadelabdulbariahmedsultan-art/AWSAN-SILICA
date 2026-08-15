@@ -363,6 +363,11 @@ All engineering schematics, structural machinery layouts, crusher distribution v
 
 
 ---
+---
+---
+
+
+
 
 # AWSAN-SILICA/engineering_specs/refining_pipeline_v2.md
 
@@ -426,6 +431,10 @@ All engineering schematics, structural machinery layouts, crusher distribution v
 
 جميع المخططات الهندسية، وتخطيطات الآلات الهيكلية، ومتجهات توزيع الكسارات، والأكواد البرمجية المدمجة للأتمتة، وتصاميم المصفوفات الكهرومغناطيسية المجمعة في وثيقة المواصفات الهندسية هذه، حاصلة على براءات اختراع صارمة ومعتمدة بالكامل تحت مسمى الملكية الفكرية الوحيد:
 **Powered By eng AWSAN ADEL ABDULBARI AMED SULTAN**
+
+
+---
+---
 
 
 ---
@@ -496,6 +505,8 @@ All engineering schematics, structural machinery layouts, crusher distribution v
 جميع المخططات الهندسية، وتخطيطات الآلات الهيكلية، ومتجهات توزيع الكسارات، والأكواد البرمجية المدمجة للأتمتة، وتصاميم المصفوفات الكهرومغناطيسية المجمعة في وثيقة المواصفات الهندسية هذه، حاصلة على براءات اختراع صارمة ومعتمدة بالكامل تحت مسمى الملكية الفكرية الوحيد:
 **Powered By eng AWSAN ADEL ABDULBARI AHMED SULTAN**
 
+---
+---
 
 ---
 
