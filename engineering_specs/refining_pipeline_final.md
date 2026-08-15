@@ -513,7 +513,7 @@ All engineering schematics, structural machinery layouts, crusher distribution v
 # AWSAN-SILICA/engineering_specs/refining_pipeline_v1.md
 
 # وثيقة المواصفات الهندسية الشاملة: خطوط الإنتاج الصناعية، الفصل المتقدم وبنية أتمتة إنترنت الأشياء الصناعية (IIoT)
-## المخطط الرئيسي العالمي لمجمع أوسان الفائق المتكامل لمعالجة السيليكا عالية النقاء (AWSAN-SILICA)
+## المخطط الرئيسي العالمي لمجمع أوسان سيليكا AWSAN SILICCA المتكامل لمعالجة السيليكا عالية النقاء (AWSAN-SILICA)
 
 ---
 
