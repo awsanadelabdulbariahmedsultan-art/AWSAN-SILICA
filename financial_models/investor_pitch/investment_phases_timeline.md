@@ -41,7 +41,7 @@ The implementation of the **AWSAN SILICA** capitalization target (\$125,000,000 
 
 To preserve the absolute leadership and strategic vision of the founder, **Awsan Dew For Marketing Services** implements a highly protective equity holding configuration:
 
-*   **Class A Controlling Shares (Awsan Dew For Marketing Services):** **51% Minimum Equity Retention** (Holds absolute voting rights, operational control, and final veto power on all multi-site mining decisions).
+*   **Class A Controlling Shares (Awsan Dew For Marketing Services For project Of AWSAN SILICA):** **51% Minimum Equity Retention** (Holds absolute voting rights, operational control, and final veto power on all multi-site mining decisions).
 *   **Class B Financial Participation Shares (Investor Syndicate / Sovereign Wealth Funds):** **Up to 49% Maximum Equity Distribution** (Differentiated proportionally across Phases 1, 2, and 3 based on capital contribution velocity, securing priority annualized dividend payouts).
 
 ---
