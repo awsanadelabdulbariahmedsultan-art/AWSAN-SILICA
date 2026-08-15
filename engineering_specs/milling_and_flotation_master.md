@@ -7,6 +7,36 @@
 
 ## 📌 MODULE 1: HEAVY MECHANICAL INFRASTRUCTURE & METSO VTM CRUSHING CLUSTER
 
+---
+
+
+---
+
+
+<p align="center">
+  <img src="./assets/1786820647177.png" alt="1786820647177  - View 1" width="49%">
+  <img src="./assets/1786820435970.png" alt="1786820435970  - View 2" width="49%">
+</p>
+
+---
+
+
+<p align="center">
+  <img src="./assets/1786820422354.png" alt="1786820422354  - View 1" width="49%">
+  <img src="./assets/1786820093348.png" alt="1786820093348  - View 2" width="49%">
+</p>
+
+---
+
+
+<p align="center">
+  <img src="./assets/1786819945626.png" alt="1786819945626  - View 1" width="49%">
+  <img src="./assets/1786819865969.png" alt="1786819865969  - View 2" width="49%">
+</p>
+
+
+---
+
 Based on the multi-phase industrial deployment optimized for continuous-feed micronization, advanced particle reduction, and raw material handling, the plant infrastructure integrates heavy-duty mineral processing tracks:
 
 ### A. Raw Silica Feeding & Silo Storage Matrix
@@ -22,6 +52,17 @@ Based on the multi-phase industrial deployment optimized for continuous-feed mic
 ---
 
 ## 🧪 MODULE 2: ADVANCED PHYSICOCHEMICAL SEPARATION & HYDROTRANSPORT PIPING
+
+---
+
+
+<p align="center">
+  <img src="./assets/1786819830203.png" alt="1786819830203  - View 1" width="49%">
+  <img src="./assets/1786819812165.png" alt="1786819812165  - View 2" width
+    ="49%">
+</p>
+
+---
 
 To separate embedded lattice impurities and eliminate non-magnetic heavy mineral compounds from the micronized silica pulp, the wet processing complex operates via the following specialized units:
 
@@ -39,6 +80,17 @@ To separate embedded lattice impurities and eliminate non-magnetic heavy mineral
 ---
 
 ## 💻 MODULE 3: CYBERNETIC AUTOMATION, CONTROL TERMINALS & TELEMETRY
+
+---
+
+
+<p align="center">
+  <img src="./assets/1786821279771.png" alt="1786821279771  - View 1" width="49%">
+  <img src="./assets/1786821261322.png" alt="1786821261322  - View 2" width="49%">
+</p>
+
+
+---
 
 The entire chemical-physical facility operates under strict real-time telemetry control to maximize resource sustainability and maintain rigid production quality standards:
 
