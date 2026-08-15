@@ -42,6 +42,47 @@ Yemen holds an estimated **2 Billion cubic meters** of high-purity silica sandst
 
 ---
 
+
+<p align="center">
+  <img src="./assets/1786820647177.png" alt="1786820647177  - View 1" width="49%">
+  <img src="./assets/1786820435970.png" alt="1786820435970  - View 2" width="49%">
+</p>
+
+---
+
+
+<p align="center">
+  <img src="./assets/1786820422354.png" alt="1786820422354  - View 1" width="49%">
+  <img src="./assets/1786820093348.png" alt="1786820093348  - View 2" width="49%">
+</p>
+
+---
+
+
+<p align="center">
+  <img src="./assets/1786819945626.png" alt="1786819945626  - View 1" width="49%">
+  <img src="./assets/1786819865969.png" alt="1786819865969  - View 2" width="49%">
+</p>
+
+
+
+---
+
+
+<p align="center">
+  <img src="./assets/1786821279771.png" alt="1786821279771  - View 1" width="49%">
+  <img src="./assets/1786821261322.png" alt="1786821261322  - View 2" width="49%">
+</p>
+
+
+
+
+
+
+
+
+---
+
 ## 🏗️ Project Architecture & Processing Pipeline
 
 The **AWSAN SILICA** industrial ecosystem is designed on a 3-tier value chain to maximize local economic impact and support global high-tech supply chains:
@@ -191,6 +232,40 @@ This project, including all technical, geological, economic, and programmatic co
 
 ### 3. إقليم أرخبيل سقطرى (الكثبان الرملية البيضاء فائقة النقاء البيئي)
 *   **جزيرة سقطرى (كثبان  عرهر أرشر وزاهق الرملية الشاهقة):** تتميز بطبوغرافية فريدة ومعزولة جيولوجياً، حيث تكتنز كثباناً رملية بيضاء شاهقة وممتدة ذات نقاء طبيعي استثنائي تشكلت بفعل الرياح الموسمية وعوامل التجوية للحجر الجيري والجرانيت، وهي صالحة للتطبيقات الإلكترونية الدقيقة والزجاج البصري مع الالتزام التام بمعايير الاستدامة البيئية لحماية محميات الجزيرة الطبيعية وأشجار دم الأخوين.
+
+---
+
+
+<p align="center">
+  <img src="./assets/1786820647177.png" alt="1786820647177  - View 1" width="49%">
+  <img src="./assets/1786820435970.png" alt="1786820435970  - View 2" width="49%">
+</p>
+
+---
+
+
+<p align="center">
+  <img src="./assets/1786820422354.png" alt="1786820422354  - View 1" width="49%">
+  <img src="./assets/1786820093348.png" alt="1786820093348  - View 2" width="49%">
+</p>
+
+---
+
+
+<p align="center">
+  <img src="./assets/1786819945626.png" alt="1786819945626  - View 1" width="49%">
+  <img src="./assets/1786819865969.png" alt="1786819865969  - View 2" width="49%">
+</p>
+
+
+
+---
+
+
+<p align="center">
+  <img src="./assets/1786821279771.png" alt="1786821279771  - View 1" width="49%">
+  <img src="./assets/1786821261322.png" alt="1786821261322  - View 2" width="49%">
+</p>
 
 ---
 
