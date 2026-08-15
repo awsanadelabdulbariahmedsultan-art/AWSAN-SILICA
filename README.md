@@ -83,8 +83,22 @@ AWSAN-SILICA/
 │
 ├── 📂 assets/                     # Project visual assets, diagrams, and media branding
 │
-├── 📂 engineering_specs/          # Blueprints for flotation tanks & eco-friendly separators
-│   └── refining_pipeline_v1.pdf
+├── 📂 engineering_specs/          # 🏗️ Blueprints and technical specifications for production & refining lines
+│   ├── bretonstone_automated_line_specs.md # Technical specifications for Breton automated quartz slab lines
+│   ├── bretonstone_export_crating_specs.md # Standardized packaging and export crating criteria for Breton systems
+│   ├── bretonstone_finishing_station_specs.md # Specifications for quartz slab polishing and finishing stations
+│   ├── metso_integrated_panoramic_specs.md # Panoramic operational integrated specs for Metso processing systems
+│   ├── metso_outotec_flotation_specs.md  # Engineering specs for Metso Outotec froth flotation cell matrices
+│   ├── metso_vlm_cross_section_specs.md # Cross-sectional blueprints for Metso ceramic-lined vertical mills
+│   ├── metso_vlm_flotation_specs.md     # Flotation integration and parameters for Metso vertical milling
+│   ├── milling_and_flotation_master.md  # Master engineering document for vertical milling & froth flotation
+│   ├── milling_flotation_stage2.md      # Detailed specs for the secondary stage milling and flotation line
+│   ├── refining_pipeline_final.md       # Final chemical purification and refining pipeline flow design
+│   ├── refining_pipeline_v1.md          # Preliminary architecture for the refining and processing pipeline
+│   ├── tomra_chute_sorting_specs.md     # Engineering specs for TOMRA gravity-fed chute sorting systems
+│   ├── tomra_cleanroom_laser_specs.md   # Laser sorting infrastructure for high-purity cleanroom environments
+│   ├── tomra_laser_and_breton_specs.md  # Interfacing specs between TOMRA sensors and Breton compaction lines
+│   └── tomra_pro_secondary_sorting_specs.md # Advanced specifications for TOMRA secondary high-grade sorting units
 │
 ├── 📂 financial_models/           # 🔒 CRITICAL: Main Proprietary Financial & Investment Hub (Protected by .gitignore)
 │   │
@@ -213,16 +227,29 @@ This project, including all technical, geological, economic, and programmatic co
 | **ألواح الكوارتز المصقولة** | صب وتصنيع قوالب جاهزة | $2,000 - $5,000 | العمارة الفاخرة، الأسطح الطبية |
 
 ---
-
-📁 البنية الهيكلية للمستودع (Repository Directory Structure)
+## 📁 البنية الهيكلية للمستودع (Repository Directory Structure)
 
 ```backcountry
 AWSAN-SILICA/
 │
 ├── 📂 assets/                     # الأصول المرئية للمشروع، الرسوم البيانية، والهوية الإعلامية للعلامة التجارية
 │
-├── 📂 engineering_specs/          # المخططات الهندسية لخزانات التعويم والفواصل الصديقة للبيئة
-│   └── refining_pipeline_v1.pdf
+├── 📂 engineering_specs/          # 🏗️ المخططات الهندسية والمواصفات الفنية لخطوط الإنتاج والتكرير
+│   ├── bretonstone_automated_line_specs.md # مواصفات خط الإنتاج الآلي لألواح الكوارتز من شركة بريتون
+│   ├── bretonstone_export_crating_specs.md # معايير التغليف وتعبئة الصناديق الخاصة بالتصدير لمنتجات بريتون
+│   ├── bretonstone_finishing_station_specs.md # مواصفات محطة التشطيب النهائي والصقل لألواح الكوارتز
+│   ├── metso_integrated_panoramic_specs.md # المواصفات البانورامية المتكاملة لأنظمة المعالجة من شركة ميتسو
+│   ├── metso_outotec_flotation_specs.md  # المواصفات الفنية لخلايا تعويم الرغوة من شركة ميتسو أوتوتيك
+│   ├── metso_vlm_cross_section_specs.md # مواصفات المقاطع العرضية لطواحين ميتسو العمودية المبطنة بالسيراميك
+│   ├── metso_vlm_flotation_specs.md     # التكامل التشغيلي بين طواحين ميتسو العمودية وخلايا التعويم
+│   ├── milling_and_flotation_master.md  # الدليل الرئيسي لعمليات الطحن الرأسي وتعويم الرغوة للسيليكا
+│   ├── milling_flotation_stage2.md      # المواصفات الفنية للمرحلة الثانية من خطوط الطحن والتعويم
+│   ├── refining_pipeline_final.md       # المخطط والتدفق النهائي لخط أنابيب التكرير والمعالجة الكيميائية
+│   ├── refining_pipeline_v1.md          # النسخة الأولى من مخطط خط أنابيب التكرير والمعالجة
+│   ├── tomra_chute_sorting_specs.md     # مواصفات أجهزة الفرز القائمة على مجاري الانزلاق من شركة تومرا
+│   ├── tomra_cleanroom_laser_specs.md   # مواصفات الفرز بالليزر داخل الغرف النظيفة لضمان أعلى نقاء
+│   ├── tomra_laser_and_breton_specs.md  # شروط الربط الفني والتكاملي بين مستشعرات تومرا وخطوط كبس بريتون
+│   └── tomra_pro_secondary_sorting_specs.md # مواصفات أنظمة الفرز الثانوي المتقدمة لرفع جودة المنتج النهائي
 │
 ├── 📂 financial_models/           # 🔒 هام وحرج: المركز الرئيسي للبيانات المالية والاستثمارية المملوكة (محمي بواسطة gitignore.)
 │   │
@@ -261,11 +288,12 @@ AWSAN-SILICA/
 ├── PARTNERS_AND_SPECS.md          # تفاصيل شروط الشراكة والمعايير الفنية والتقنية
 ├── PLANTS_AND_SYSTEMS_MASTER.md   # الملف الرئيسي للمصانع الإنتاجية وأنظمة البنية التحتية
 ├── SMART_STORAGE_AND_SOLAR.md     # استراتيجية ومواصفات مرافق التخزين الذكية ومرافق الطاقة الشمسية
-├── SPACES_AND_STRATEGY.md         # التخصيص المكاني والعمليات الاستراتيجية للاقتصاد الكلي
+├── SPACES_AND_STRATEGY.md         # Spatial allocation and macro-economic operational strategies
 ├── .gitignore                     # لتحديد الملفات والمجلدات غير المتتبعة التي يتم تجاهلها عمداً
 ├── LICENSE                        # ملف الملكية الفكرية الخاص وحفظ الحقوق
 └── README.md                      # النظرة العامة الرئيسية للمشروع والرؤية الاستراتيجية
 ```
+
 
 ---
 
