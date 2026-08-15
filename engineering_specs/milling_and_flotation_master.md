@@ -10,9 +10,6 @@
 ---
 
 
----
-
-
 <p align="center">
   <img src="./assets/1786820647177.png" alt="1786820647177  - View 1" width="49%">
   <img src="./assets/1786820435970.png" alt="1786820435970  - View 2" width="49%">
@@ -122,6 +119,33 @@ All engineering schematics, structural machinery layouts, crusher and mill distr
 
 ## 📌 الوحدة الأولى: البنية التحتية الميكانيكية الثقيلة ومجمع طحن ميتسو الرأسي VTM
 
+---
+
+
+<p align="center">
+  <img src="./assets/1786820647177.png" alt="1786820647177  - View 1" width="49%">
+  <img src="./assets/1786820435970.png" alt="1786820435970  - View 2" width="49%">
+</p>
+
+---
+
+
+<p align="center">
+  <img src="./assets/1786820422354.png" alt="1786820422354  - View 1" width="49%">
+  <img src="./assets/1786820093348.png" alt="1786820093348  - View 2" width="49%">
+</p>
+
+---
+
+
+<p align="center">
+  <img src="./assets/1786819945626.png" alt="1786819945626  - View 1" width="49%">
+  <img src="./assets/1786819865969.png" alt="1786819865969  - View 2" width="49%">
+</p>
+
+
+
+---
 بناءً على التوزيع الصناعي متعدد المراحل المحسن للتغذية المستمرة، والطحن الميكروني فائق النعومة، ومعالجة المواد الخام، تدمج البنية التحتية للمصنع مسارات معالجة المعادن الثقيلة:
 
 ### أ. مصفوفة التغذية بالسيليكا الخام وصوامع التخزين العمودية
@@ -137,6 +161,17 @@ All engineering schematics, structural machinery layouts, crusher and mill distr
 ---
 
 ## 🧪 الوحدة الثانية: الفصل الفيزيائي الكيميائي المتقدم وشبكة أنابيب النقل الهيدروليكي
+
+---
+
+
+<p align="center">
+  <img src="./assets/1786819830203.png" alt="1786819830203  - View 1" width="49%">
+  <img src="./assets/1786819812165.png" alt="1786819812165  - View 2" width
+    ="49%">
+</p>
+
+---
 
 لعزل الشوائب الشبكية المدمجة والتخلص من مركبات المعادن الثقيلة غير المغناطيسية من عجينة السيليكا المطحونة، يعمل مجمع المعالجة الرطبة عبر الوحدات المتخصصة التالية:
 
