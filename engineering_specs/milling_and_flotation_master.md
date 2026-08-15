@@ -164,12 +164,11 @@ All engineering schematics, structural machinery layouts, crusher and mill distr
 
 ---
 
-
 <p align="center">
-  <img src="./assets/1786819830203.png" alt="1786819830203  - View 1" width="49%">
-  <img src="./assets/1786819812165.png" alt="1786819812165  - View 2" width
-    ="49%">
+  <img src="./assets/1786821279771.png" alt="1786821279771  - View 1" width="49%">
+  <img src="./assets/1786821261322.png" alt="1786821261322  - View 2" width="49%">
 </p>
+
 
 ---
 
