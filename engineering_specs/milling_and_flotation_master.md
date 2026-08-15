@@ -165,8 +165,9 @@ All engineering schematics, structural machinery layouts, crusher and mill distr
 ---
 
 <p align="center">
-  <img src="./assets/1786821279771.png" alt="1786821279771  - View 1" width="49%">
-  <img src="./assets/1786821261322.png" alt="1786821261322  - View 2" width="49%">
+  <img src="./assets/1786819830203.png" alt="1786819830203  - View 1" width="49%">
+  <img src="./assets/1786819812165.png" alt="1786819812165  - View 2" width
+    ="49%">
 </p>
 
 
@@ -188,7 +189,13 @@ All engineering schematics, structural machinery layouts, crusher and mill distr
 ---
 
 ## 💻 الوحدة الثالثة: أتمتة الأنظمة السيبرانية الفيزيائية، منصات التحكم والقياس الرقمي
+---
+<p align="center">
+  <img src="./assets/1786821279771.png" alt="1786821279771  - View 1" width="49%">
+  <img src="./assets/1786821261322.png" alt="1786821261322  - View 2" width="49%">
+</p>
 
+---
 تدير منصة التحكم المركزية الواقعة في منتصف صالة الإنتاج كافة معايير المعالجة الكيميائية والفيزيائية لتعظيم استدامة الموارد والحفاظ على معايير الإنتاج الصارمة:
 
 ### أ. استصلاح الموارد الذكي واسترداد المياه (نظام الدائرة المغلقة بنسبة 90%)
