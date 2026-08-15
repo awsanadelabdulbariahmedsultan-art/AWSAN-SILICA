@@ -19,7 +19,7 @@ This strategic mineral project unlocks the highly premium, unexploited high-puri
 
 ## 🏗️ 2. Industrial Value Proposition & Engineering Partners
 
-The structural economics of **AWSAN SILICA** completely bar the low-margin export of raw minerals. All extracted feedstock is routed through a centralized 66-acre advanced processing mega-complex in the Ain Sokhna Economic Zone, integrating turnkey automated systems engineered by global heavy industrial giants:
+The structural economics of **AWSAN SILICA** completely bar the low-margin export of raw minerals. All extracted feedstock is routed through a centralized 66-acre advanced processing mega-complex in  Economic Zone, integrating turnkey automated systems engineered by global heavy industrial giants:
 
 1. **Eriez Magnetics (USA):** High-Intensity Rare Earth Electromagnetic Separation (HGMS) to isolate iron oxides below 0.01%.
 2. **Metso Outotec (Finland):** Ceramic-lined Vertical Grinding Mills (VTM) and zero-pollution chemical Froth Flotation cells to eliminate mica and feldspar.
@@ -70,7 +70,7 @@ This prospectus is not an open public offering. It is a proprietary technical la
 
 ## 🏗️ 2. القيمة الصناعية المضافة وخطوط إنتاج الشركاء الدوليين
 
-إن الهيكل الاقتصادي لمشروع **AWSAN SILICA** يمنع منعاً باتاً تصدير المواد الخام الرخيصة كخام بكر منخفض العائد. يتم توجيه كافة التدفقات المستخرجة إلى مجمع التكرير والإنهاء العملاق الممتد على مساحة 66 فداناً في المنطقة الاقتصادية بالعين السخنة، والذي يدمج خطوط إنتاج آلية بالكامل تم هندستها بواسطة كبرى مصانع التعدين التكنولوجي في العالم:
+إن الهيكل الاقتصادي لمشروع **AWSAN SILICA** يمنع منعاً باتاً تصدير المواد الخام الرخيصة كخام بكر منخفض العائد. يتم توجيه كافة التدفقات المستخرجة إلى مجمع التكرير والإنهاء العملاق الممتد على مساحة 66 فداناً في المنطقة الاقتصادية ، والذي يدمج خطوط إنتاج آلية بالكامل تم هندستها بواسطة كبرى مصانع التعدين التكنولوجي في العالم:
 
 1. **شركة إيريز مغناطيس (Eriez Magnetics - أمريكا):** لأنظمة الفصل المغناطيسي عالي الكثافة (HGMS) لانتزاع أكاسيد الحديد وخفض نسبتها لأقل من 0.01%.
 2. **شركة ميتسو أوتوتيك (Metso Outotec - فنلندا):** لتشغيل المطاحن العمودية المبطنة بالسيراميك (VTM) وخلايا التعويم الرغوي الآلي لعزل شوائب الميكا والفلدسبار مجهرياً دون صفر تلوث.
