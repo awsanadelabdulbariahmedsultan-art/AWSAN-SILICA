@@ -9,12 +9,6 @@
 
 ---
 
-<p align="center">
-  <img src="./assets/الليزر،طحن نفاث، معالجة المياه،صهر سيليكون لرقاقات.png" alt="الليزر،طحن نفاث، معالجة المياه،صهر سيليكون لرقاقات" width="1200">
-</p>
-
----
-
 Based on the validated industrial layouts, mechanical simulations, and certified plant configurations customized for the complex, the refining pipeline consists of four sequentially synchronized, 100% automated physical and electromagnetic processing stages:
 
 ### A. Primary Crushing & Feeding Subsystem
@@ -89,12 +83,6 @@ All engineering schematics, structural machinery layouts, crusher distribution v
 ---
 
 ## 📌 المرحلة الأولى: البنية التحتية الصناعية والمراحل الميكانيكية الفيزيائية
----
-
-<p align="center">
-  <img src="./assets/الليزر،طحن نفاث، معالجة المياه،صهر سيليكون لرقاقات.png" alt="الليزر،طحن نفاث، معالجة المياه،صهر سيليكون لرقاقات" width="1200">
-</p>
-
 ---
 
 بناءً على المخططات الصناعية المعتمدة، والمحاكاة الميكانيكية، وتكوينات المصانع المعتمدة والمخصصة للمجمع، يتكون خط التكرير من أربع مراحل معالجة فيزيائية وكهرومغناطيسية متسلسلة ومزامنة ومؤتمتة بنسبة 100%:
